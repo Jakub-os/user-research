@@ -1,0 +1,19 @@
+hu UPLOAD AREA after ok pdf ["Elülső oldal Törlés","Elülső oldal Törlés"]
+hu after add modals ["A grafikája könnyen karcolódhat ezen az anyagon! Ha sötét színű grafikával rendelkezik, erősen javasoljuk, hogy a kiválasztott anyaghoz Matt papír (0,358 mm / 350 g/m²) válasszon felületkezelést (UV-lakk vagy laminálás). A felületkezelés megvédi a sötét színeket a karcolódástól, és növeli a nyomtatás általános tartósságát. SZERKESZTÉS FOLYTATÁS FELÜLETKEZELÉS NÉLKÜL"]
+hu CART URL https://www.expresta.hu/order/shopping-cart
+hu CART THUMBS before edit ["https://www.expresta.hu/image/resize/up_p/1793698032421_UbbCGRt5ZayIBdnhMsU0TrP1BkBCbtP9_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/hu/images/image-icons/elegedettsegi-garancia-hu.svg"]
+hu EDIT URL https://www.expresta.hu/order/product/nevjegykartya/upload?c=6ae9a8e3a2ed6973050061&ba=edit&refetch=1
+hu EDIT upload area start ["Elülső oldal Törlés","Elülső oldal Törlés"]
+hu toggle NYOMTATÁSI PARAMÉTEREK MÓDOSÍTÁSA
+hu EDIT upload area after two-sided ["Elülső oldal PDF, AI, JPG, JPEG, GIF, PNG, EPS Fájl feltöltése Hátsó oldal PDF, AI, JPG, JPEG, GIF, PNG, EPS Fájl feltöltése","Elülső oldal PDF, AI, JPG, JPEG, GIF, PNG, EPS Fájl feltöltése Hátsó oldal PDF, AI, JPG, JPEG, GIF, PNG, EPS Fájl feltöltése"]
+hu save btn text VÁLTOZÁSOK MENTÉSE
+hu after save modals ["A grafikája könnyen karcolódhat ezen az anyagon! Ha sötét színű grafikával rendelkezik, erősen javasoljuk, hogy a kiválasztott anyaghoz Matt papír (0,358 mm / 350 g/m²) válasszon felületkezelést (UV-lakk vagy laminálás). A felületkezelés megvédi a sötét színeket a karcolódástól, és növeli a nyomtatás általános tartósságát. SZERKESZTÉS FOLYTATÁS FELÜLETKEZELÉS NÉLKÜL"]
+hu URL after save https://www.expresta.hu/order/shopping-cart
+hu CART THUMBS after edit ["https://cdn.expresta.com/hu/images/banners/resized/nevjegykartyak-nyomtatasa-c-hu.jpg","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/hu/images/image-icons/elegedettsegi-garancia-hu.svg"]
+hu CART ROW 
+hu cart continue TOVÁBBI TERMÉKEK HOZZÁADÁSA https://www.expresta.hu/products/osszes-termek
+hu UX009 fresh {"url":"/products/osszes-termek","del":null,"pay":null,"payCount":0,"payTotal":0}
+hu DELIVERY OPTIONS []
+hu chosen delivery undefined
+hu ERROR locator.click: Timeout 30000ms exceeded.
+hu CART ITEMS LEFT 0

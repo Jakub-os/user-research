@@ -1,0 +1,38 @@
+eu UPLOAD AREA after ok pdf ["Front side Delete","Front side Delete"]
+eu after add modals ["Your graphics can be easily scratched on this material! If you have a dark color design, we strongly recommend choosing a surface treatment for the selected material Matt paper (0.358 mm / 350 g/m²). The surface treatment protects dark colors from scratches and increases the overall durability of the print. EDIT WITHOUT SURFACE TREATMENT"]
+eu CART URL https://www.expresta.eu/order/shopping-cart
+eu CART THUMBS before edit ["https://www.expresta.eu/image/resize/up_p/1793698432090_OoZvFS6ak7XknwO8VfAay7f7pASXugbn_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/eu/images/image-icons/satisfaction-guarantee-eu.svg","https://cdn.expresta.com/eu/images/image-icons/trusted-shops-eu.svg"]
+eu CART BTNS ["Sign in |  | to-sign-in-btn","— |  | minus btn ","＋ |  | plus btn ","ADD MORE PRODUCTS |  | ordbtnbc btn_back btn_light_large","CHECKOUT |  | float-end btn-large btn-loader","Buyer Protection\n4.74\n(1.1k)\nExcellent | minimized-trustbadge-98e3dadd90eb493088abdc5597a70810 | _hjr9qk"]
+eu cart continue CHECKOUT 
+eu SPECIAL OFFER PAGE Skip to main content | MENU | Sign in | 1 | ALL PRODUCTS | FOR BUSINESS | LIFE EVENTS | BOOK PRINTING | FOR CREATIVE SOULS | PUBLISHING SERVICES | BasketSpecial offerDelivery & PaymentDataReview | There is still space in your basket! Will you choose something else useful or something for pleasure? | CONTINUE WITHOUT ACCESSORIES | Business card case Expresta | QUANTITY | PRICE INCL. VAT | € | 2.71 |  (€ | 2.71 | /pc | ) | ADD TO BASKET | Black business card case | QUANTITY | PRICE INCL. VAT | € | 7.13 |  (€ | 7.13 | /pc | ) | ADD TO BASKET | Business card holder | QUANTITY | PRICE INCL. VAT | € | 4.89 |  (€ | 2.44 | /pc | ) | ADD TO BASKET | Brown business card case | QUANTITY | PRICE INCL. VAT | € | 7.13 |  (€ | 7.13 | /pc | ) | ADD TO BASKET | CONTINUE WITHOUT ACCESSORIES | +421 221 023 233 | call Mon-Fri 7-19 CET | Directly via chat | chat Mon-Fri 7-19 CET | info@expresta.eu | contact us by e-mail | Buyer Protection | 4.74 | (1.1k) | Excellent
+eu SO controls ["Skip to main content -> esta.eu/order/special-offer#main-content","Sign in -> ps://www.expresta.eu/account/enter-email","1 -> ps://www.expresta.eu/order/shopping-cart","ALL PRODUCTS -> ://www.expresta.eu/products/all-products","FOR BUSINESS -> ://www.expresta.eu/products/for-business","LIFE EVENTS -> s://www.expresta.eu/products/life-events","BOOK PRINTING -> //www.expresta.eu/products/book-printing","FOR CREATIVE SOULS -> .expresta.eu/products/for-creative-souls","PUBLISHING SERVICES -> a.eu/publishing/book-publishing-services","CONTINUE WITHOUT ACCESSORIES -> ","Business card case Expresta -> gory/details/business-card-case-expresta","ADD TO BASKET -> ","Black business card case -> ategory/details/black-business-card-case","ADD TO BASKET -> ","Business card holder -> eu/category/details/business-card-holder","ADD TO BASKET -> ","Brown business card case -> ategory/details/brown-business-card-case","ADD TO BASKET -> ","CONTINUE WITHOUT ACCESSORIES -> ","Buyer Protection\n4.74\n(1.1k)\nExcellent -> "]
+eu SO continue CONTINUE WITHOUT ACCESSORIES
+eu UX009 fresh {"url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0}
+eu DELIVERY OPTIONS [
+ "delivery-type-37016: DHL Express – ❗ possible duty and local tax",
+ "delivery-type-55369: FedEx Priority – ❗ possible duty and local tax",
+ "delivery-type-19964: UPS – ❗ possible duty and local tax",
+ "delivery-type-72117: FedEx Economy – ❗ possible duty and local tax"
+]
+eu chosen delivery delivery-type-37016
+eu PAYMENT OPTIONS [
+ "payment-type-59: ",
+ "payment-type-56: Bank transfer (prepayment)",
+ "payment-type-90: ",
+ "payment-type-94: ",
+ "payment-type-87: ",
+ "payment-type-88: ",
+ "payment-type-96: ",
+ "payment-type-97: ",
+ "payment-type-98: ",
+ "payment-type-86: ",
+ "payment-type-54: Invoice due within 14 days (for existing corporate customers with sufficient credit limit)",
+ "payment-type-55: "
+]
+eu chosen payment payment-type-56
+eu UX009 selected {"url":"/order/delivery-payment","del":"delivery-type-37016","pay":"payment-type-56","payCount":1,"payTotal":12}
+eu continue clicked CONTINUE
+eu UX009 next step {"url":"/order/customer-data","del":null,"pay":null,"payCount":0,"payTotal":0}
+eu UX009 browser back {"url":"/order/delivery-payment","del":"delivery-type-37016","pay":null,"payCount":0,"payTotal":0}
+eu UX009 reload {"url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0}
+eu CART ITEMS LEFT 0

@@ -1,0 +1,19 @@
+eu UPLOAD AREA after ok pdf ["Front side Delete","Front side Delete"]
+eu after add modals ["Your graphics can be easily scratched on this material! If you have a dark color design, we strongly recommend choosing a surface treatment for the selected material Matt paper (0.358 mm / 350 g/m²). The surface treatment protects dark colors from scratches and increases the overall durability of the print. EDIT WITHOUT SURFACE TREATMENT"]
+eu CART URL https://www.expresta.eu/order/shopping-cart
+eu CART THUMBS before edit ["https://www.expresta.eu/image/resize/up_p/1793698191283_bP8SHCQZP7v5RXrAjqWdARf2UNhCmW6D_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/eu/images/image-icons/satisfaction-guarantee-eu.svg","https://cdn.expresta.com/eu/images/image-icons/trusted-shops-eu.svg"]
+eu EDIT URL https://www.expresta.eu/order/product/business-cards/upload?c=6ae9a981dc929041301175&ba=edit&refetch=1
+eu EDIT upload area start ["Front side Delete","Front side Delete"]
+eu toggle ADJUST PRINTING PARAMETERS
+eu EDIT upload area after two-sided ["Front side PDF, AI, JPG, JPEG, GIF, PNG, EPS Upload file Back side PDF, AI, JPG, JPEG, GIF, PNG, EPS Upload file","Front side PDF, AI, JPG, JPEG, GIF, PNG, EPS Upload file Back side PDF, AI, JPG, JPEG, GIF, PNG, EPS Upload file"]
+eu save btn text SAVE CHANGES
+eu after save modals ["Your graphics can be easily scratched on this material! If you have a dark color design, we strongly recommend choosing a surface treatment for the selected material Matt paper (0.358 mm / 350 g/m²) . The surface treatment protects dark colors from scratches and increases the overall durability of the print. EDIT WITHOUT SURFACE TREATMENT"]
+eu URL after save https://www.expresta.eu/order/shopping-cart
+eu CART THUMBS after edit ["https://cdn.expresta.com/eu/images/banners/resized/business-cards-sm.jpg","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/eu/images/image-icons/satisfaction-guarantee-eu.svg","https://cdn.expresta.com/eu/images/image-icons/trusted-shops-eu.svg"]
+eu CART ROW 
+eu cart continue null
+eu UX009 fresh {"url":"/order/shopping-cart","del":null,"pay":null,"payCount":0,"payTotal":0}
+eu DELIVERY OPTIONS []
+eu chosen delivery undefined
+eu ERROR locator.click: Timeout 30000ms exceeded.
+eu CART ITEMS LEFT 0

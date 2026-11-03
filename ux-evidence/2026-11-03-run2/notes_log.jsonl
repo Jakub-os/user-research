@@ -1,0 +1,340 @@
+{"shot":"RECON_cz_1440_home","url":"https://www.expresta.cz/","ts":"2026-11-03T08:57:53.606Z"}
+{"shot":"RECON_de_1440_home","url":"https://www.expresta.de/","ts":"2026-11-03T08:58:04.711Z"}
+{"shot":"RECON_at_1440_home","url":"https://www.expresta.at/","ts":"2026-11-03T08:58:13.418Z"}
+{"shot":"RECON_hu_1440_home","url":"https://www.expresta.hu/","ts":"2026-11-03T08:58:22.541Z"}
+{"shot":"RECON_eu_1440_home","url":"https://www.expresta.eu/","ts":"2026-11-03T08:58:32.761Z"}
+{"shot":"XD_cz_1440_pdp_default","url":"https://www.expresta.cz/vizitky","ts":"2026-11-03T08:58:57.485Z"}
+{"shot":"XD_hu_1440_pdp_default","url":"https://www.expresta.hu/nevjegykartya","ts":"2026-11-03T08:59:10.369Z"}
+{"shot":"XD_cz_1440_step2","url":"https://www.expresta.cz/order/product/vizitky/templates?c=6ae9a28fd2612323947296","ts":"2026-11-03T09:00:02.638Z"}
+{"shot":"XD_cz_1440_step2","url":"https://www.expresta.cz/order/product/vizitky/templates?c=6ae9a2c733085824678759","ts":"2026-11-03T09:00:58.029Z"}
+{"shot":"XD_cz_1440_after_back","url":"https://www.expresta.cz/vizitky","ts":"2026-11-03T09:01:05.055Z"}
+{"j":"XD-UX001","d":"cz","before":{"amount":"500","sides":"2","price":"1 043","priceVis":true},"after":{"amount":"250","sides":"2","price":"822","priceVis":true},"step2":"https://www.expresta.cz/order/product/vizitky/templates?c=6ae9a2c733085824678759","ts":"2026-11-03T09:01:05.055Z"}
+{"shot":"XD_cz_1440_corrupt_pdf","url":"https://www.expresta.cz/order/product/vizitky/upload?c=6ae9a2c733085824678759","ts":"2026-11-03T09:01:20.164Z"}
+{"j":"XD-UX003","d":"cz","url":"https://www.expresta.cz/order/product/vizitky/upload?c=6ae9a2c733085824678759","msgs":["Při nahrávání vašeho návrhu se vyskytla chyba. Vraťte se prosím o krok zpět, zvolte možnost ÚDAJE DODÁM POZDĚJI a pokračujte v objednávce. Po jejím dokončení nám můžete soubory zaslat na e-mail info@expresta.cz.","Upload failure reason unknown"],"ts":"2026-11-03T09:01:44.511Z"}
+{"shot":"XD_at_1440_step2","url":"https://www.expresta.at/order/product/visitenkarten/templates?c=6ae9a332c8fa1677026557","ts":"2026-11-03T09:02:45.643Z"}
+{"shot":"XD_at_1440_after_back","url":"https://www.expresta.at/visitenkarten","ts":"2026-11-03T09:02:52.348Z"}
+{"j":"XD-UX001","d":"at","before":{"amount":"500","sides":"2","price":"48,16","priceVis":true},"after":{"amount":"250","sides":"2","price":"37,92","priceVis":true},"step2":"https://www.expresta.at/order/product/visitenkarten/templates?c=6ae9a332c8fa1677026557","ts":"2026-11-03T09:02:52.348Z"}
+{"shot":"XD_at_1440_corrupt_pdf","url":"https://www.expresta.at/order/product/visitenkarten/upload?c=6ae9a332c8fa1677026557","ts":"2026-11-03T09:03:04.801Z"}
+{"j":"XD-UX003","d":"at","url":"https://www.expresta.at/order/product/visitenkarten/upload?c=6ae9a332c8fa1677026557","msgs":["Beim Hochladen Ihres Entwurfs ist ein Fehler aufgetreten. Gehen Sie bitte einen Schritt zurück, wählen Sie die Option DIE DATEN WERDE ICH SPÄTER HINZUFÜGEN aus und fahren Sie mit Ihrer Bestellung fort. Nach deren Fertigstellung senden Sie uns die Dateien bitte per E-Mail an info@expresta.at.","Upload failure reason unknown"],"ts":"2026-11-03T09:03:29.337Z"}
+{"shot":"XD_hu_1440_step2","url":"https://www.expresta.hu/order/product/nevjegykartya/templates?c=6ae9a37691a6b450223607","ts":"2026-11-03T09:03:53.502Z"}
+{"shot":"XD_hu_1440_after_back","url":"https://www.expresta.hu/nevjegykartya","ts":"2026-11-03T09:04:00.067Z"}
+{"j":"XD-UX001","d":"hu","before":{"amount":"500","sides":"2","price":"15 373","priceVis":true},"after":{"amount":"250","sides":"2","price":"0","priceVis":false},"step2":"https://www.expresta.hu/order/product/nevjegykartya/templates?c=6ae9a37691a6b450223607","ts":"2026-11-03T09:04:00.067Z"}
+{"shot":"XD_hu_1440_corrupt_pdf","url":"https://www.expresta.hu/order/product/nevjegykartya/upload?c=6ae9a37691a6b450223607","ts":"2026-11-03T09:04:17.873Z"}
+{"j":"XD-UX003","d":"hu","url":"https://www.expresta.hu/order/product/nevjegykartya/upload?c=6ae9a37691a6b450223607","msgs":["Hiba történt az Ön tervezésének feltöltésekor. Kérjük, lépjen vissza egy lépést, válassza a ADATOKAT KÉSŐBB ADOM MEG opciót, és folytassa a megrendelést. Miután elkészült, elküldheti nekünk a fájlokat az info@expresta.hu e-mail-címre.","Upload failure reason unknown"],"ts":"2026-11-03T09:04:37.676Z"}
+{"shot":"XD_eu_1440_step2","url":"https://www.expresta.eu/order/product/business-cards/templates?c=6ae9a3c431108195415421","ts":"2026-11-03T09:05:11.032Z"}
+{"shot":"XD_eu_1440_after_back","url":"https://www.expresta.eu/business-cards","ts":"2026-11-03T09:05:18.131Z"}
+{"j":"XD-UX001","d":"eu","before":{"amount":"500","sides":"2","price":"38.45","priceVis":true},"after":{"amount":"250","sides":"2","price":"0","priceVis":false},"step2":"https://www.expresta.eu/order/product/business-cards/templates?c=6ae9a3c431108195415421","ts":"2026-11-03T09:05:18.131Z"}
+{"shot":"XD_eu_1440_corrupt_pdf","url":"https://www.expresta.eu/order/product/business-cards/upload?c=6ae9a3c431108195415421","ts":"2026-11-03T09:05:30.648Z"}
+{"j":"XD-UX003","d":"eu","url":"https://www.expresta.eu/order/product/business-cards/upload?c=6ae9a3c431108195415421","msgs":["An error occurred while uploading your design. Please go back one step, select the option I'LL SEND THE DATA LATER, and continue with your order. Once the order is completed, you can send your files to us at info@expresta.eu.","Upload failure reason unknown"],"ts":"2026-11-03T09:05:55.385Z"}
+{"shot":"XD_de_1440_step2","url":"https://www.expresta.de/order/product/visitenkarten/templates?c=6ae9a40bad236703830786","ts":"2026-11-03T09:06:22.605Z"}
+{"shot":"XD_de_1440_after_back","url":"https://www.expresta.de/visitenkarten","ts":"2026-11-03T09:06:29.745Z"}
+{"j":"XD-UX001","d":"de","before":{"amount":"500","sides":"2","price":"47,76","priceVis":true},"after":{"amount":"250","sides":"2","price":"37,60","priceVis":true},"step2":"https://www.expresta.de/order/product/visitenkarten/templates?c=6ae9a40bad236703830786","ts":"2026-11-03T09:06:29.745Z"}
+{"shot":"XD_de_1440_corrupt_pdf","url":"https://www.expresta.de/order/product/visitenkarten/upload?c=6ae9a40bad236703830786","ts":"2026-11-03T09:06:44.924Z"}
+{"j":"XD-UX003","d":"de","url":"https://www.expresta.de/order/product/visitenkarten/upload?c=6ae9a40bad236703830786","msgs":["Beim Hochladen Ihres Entwurfs ist ein Fehler aufgetreten. Gehen Sie bitte einen Schritt zurück, wählen Sie die Option DIE DATEN WERDE ICH SPÄTER HINZUFÜGEN aus und fahren Sie mit Ihrer Bestellung fort. Nach deren Fertigstellung senden Sie uns die Dateien bitte per E-Mail an info@expresta.de.","Upload failure reason unknown"],"ts":"2026-11-03T09:07:07.463Z"}
+{"shot":"XD_cz_1440_cart_before_edit","url":"https://www.expresta.cz/order/product/vizitky/upload?c=6ae9a46da439a906367477","ts":"2026-11-03T09:09:00.918Z"}
+{"shot":"XD_cz_1440_cart_before_edit","url":"https://www.expresta.cz/order/shopping-cart","ts":"2026-11-03T09:10:26.899Z"}
+{"shot":"XD_cz_1440_cart_before_edit","url":"https://www.expresta.cz/order/shopping-cart","ts":"2026-11-03T09:11:58.320Z"}
+{"shot":"XD_cz_1440_edit_after_twosided","url":"https://www.expresta.cz/order/product/vizitky/upload?c=6ae9a53c53857801645297&ba=edit&refetch=1","ts":"2026-11-03T09:12:16.003Z"}
+{"shot":"XD_cz_1440_cart_after_edit","url":"https://www.expresta.cz/order/shopping-cart","ts":"2026-11-03T09:12:28.645Z"}
+{"j":"XD-UX002","d":"cz","t0":["https://www.expresta.cz/image/resize/up_p/1793697097353_yJ0Mf6JaAsWrny99OOAn1d3KkYtKYSTl_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/cz/images/image-icons/garance-spokojenosti-cz.svg","https://cdn.expresta.com/common/images/badges/cz-golden.svg","https://cdn.expresta.com/cz/images/image-icons/safe-shopping-cz.svg"],"t1":["https://cdn.expresta.com/cz/images/banners/resized/business-cards-sm.jpg","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/cz/images/image-icons/garance-spokojenosti-cz.svg","https://cdn.expresta.com/common/images/badges/cz-golden.svg","https://cdn.expresta.com/cz/images/image-icons/safe-shopping-cz.svg"],"row":"","ts":"2026-11-03T09:12:28.646Z"}
+{"j":"XD-UX009","d":"cz","step":"fresh","url":"/order/shopping-cart","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:12:35.489Z"}
+{"shot":"XD_cz_1440_cart_before_edit","url":"https://www.expresta.cz/order/shopping-cart","ts":"2026-11-03T09:14:04.015Z"}
+{"shot":"XD_cz_1440_edit_after_twosided","url":"https://www.expresta.cz/order/product/vizitky/upload?c=6ae9a5ba5c70e489088355&ba=edit&refetch=1","ts":"2026-11-03T09:14:21.306Z"}
+{"shot":"XD_cz_1440_cart_after_edit","url":"https://www.expresta.cz/order/shopping-cart","ts":"2026-11-03T09:14:31.538Z"}
+{"j":"XD-UX002","d":"cz","t0":["https://www.expresta.cz/image/resize/up_p/1793697223058_Dc9ZST8EysDiagAjIaO8Y8QcZbGXb4ov_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/cz/images/image-icons/garance-spokojenosti-cz.svg","https://cdn.expresta.com/common/images/badges/cz-golden.svg","https://cdn.expresta.com/cz/images/image-icons/safe-shopping-cz.svg"],"t1":["https://cdn.expresta.com/cz/images/banners/resized/business-cards-sm.jpg","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/cz/images/image-icons/garance-spokojenosti-cz.svg","https://cdn.expresta.com/common/images/badges/cz-golden.svg","https://cdn.expresta.com/cz/images/image-icons/safe-shopping-cz.svg"],"row":"","ts":"2026-11-03T09:14:31.539Z"}
+{"j":"XD-UX009","d":"cz","step":"fresh","url":"/order/special-offer","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:15:05.621Z"}
+{"shot":"XD_cz_1440_cart_before_edit","url":"https://www.expresta.cz/order/shopping-cart","ts":"2026-11-03T09:16:43.345Z"}
+{"shot":"XD_cz_1440_edit_after_twosided","url":"https://www.expresta.cz/order/product/vizitky/upload?c=6ae9a65a8d2b4509440654&ba=edit&refetch=1","ts":"2026-11-03T09:17:00.520Z"}
+{"shot":"XD_cz_1440_cart_after_edit","url":"https://www.expresta.cz/order/shopping-cart","ts":"2026-11-03T09:17:11.134Z"}
+{"j":"XD-UX002","d":"cz","t0":["https://www.expresta.cz/image/resize/up_p/1793697382107_NoKpVnUINgb89wqqkdkQhndLNUorO0hl_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/cz/images/image-icons/garance-spokojenosti-cz.svg","https://cdn.expresta.com/common/images/badges/cz-golden.svg","https://cdn.expresta.com/cz/images/image-icons/safe-shopping-cz.svg"],"t1":["https://cdn.expresta.com/cz/images/banners/resized/business-cards-sm.jpg","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/cz/images/image-icons/garance-spokojenosti-cz.svg","https://cdn.expresta.com/common/images/badges/cz-golden.svg","https://cdn.expresta.com/cz/images/image-icons/safe-shopping-cz.svg"],"row":"","ts":"2026-11-03T09:17:11.134Z"}
+{"shot":"XD_cz_1440_special_offer","url":"https://www.expresta.cz/order/special-offer","ts":"2026-11-03T09:17:18.819Z"}
+{"j":"XD-UX009","d":"cz","step":"fresh","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:17:30.895Z"}
+{"shot":"XD_cz_1440_cart_before_edit","url":"https://www.expresta.cz/order/shopping-cart","ts":"2026-11-03T09:19:21.902Z"}
+{"shot":"XD_cz_1440_edit_after_twosided","url":"https://www.expresta.cz/order/product/vizitky/upload?c=6ae9a6f08fe30166749785&ba=edit&refetch=1","ts":"2026-11-03T09:19:38.951Z"}
+{"shot":"XD_cz_1440_cart_after_edit","url":"https://www.expresta.cz/order/shopping-cart","ts":"2026-11-03T09:19:49.116Z"}
+{"j":"XD-UX002","d":"cz","t0":["https://www.expresta.cz/image/resize/up_p/1793697532567_LUEDwFS09t8HSCRB0knvnDHRHJPv1GJC_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/cz/images/image-icons/garance-spokojenosti-cz.svg","https://cdn.expresta.com/common/images/badges/cz-golden.svg","https://cdn.expresta.com/cz/images/image-icons/safe-shopping-cz.svg"],"t1":["https://cdn.expresta.com/cz/images/banners/resized/business-cards-sm.jpg","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/cz/images/image-icons/garance-spokojenosti-cz.svg","https://cdn.expresta.com/common/images/badges/cz-golden.svg","https://cdn.expresta.com/cz/images/image-icons/safe-shopping-cz.svg"],"row":"","ts":"2026-11-03T09:19:49.116Z"}
+{"shot":"XD_cz_1440_special_offer","url":"https://www.expresta.cz/order/special-offer","ts":"2026-11-03T09:19:56.575Z"}
+{"j":"XD-UX009","d":"cz","step":"fresh","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:20:07.219Z"}
+{"j":"XD-UX009","d":"cz","step":"selected","url":"/order/delivery-payment","del":"delivery-type-146","pay":"payment-type-18","payCount":1,"payTotal":10,"ts":"2026-11-03T09:20:13.930Z"}
+{"shot":"XD_cz_1440_delivery_selected","url":"https://www.expresta.cz/order/delivery-payment","ts":"2026-11-03T09:20:14.048Z"}
+{"j":"XD-UX009","d":"cz","step":"next step","url":"/order/customer-data","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:20:18.102Z"}
+{"j":"XD-UX009","d":"cz","step":"browser back","url":"/order/delivery-payment","del":"delivery-type-146","pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:20:28.012Z"}
+{"shot":"XD_cz_1440_delivery_after_back","url":"https://www.expresta.cz/order/delivery-payment","ts":"2026-11-03T09:20:28.173Z"}
+{"j":"XD-UX009","d":"cz","step":"reload","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:20:37.599Z"}
+{"shot":"XD_de_1440_cart_before_edit","url":"https://www.expresta.de/order/shopping-cart","ts":"2026-11-03T09:21:45.988Z"}
+{"shot":"XD_de_1440_edit_after_twosided","url":"https://www.expresta.de/order/product/visitenkarten/upload?c=6ae9a7870485e908256749&ba=edit&refetch=1","ts":"2026-11-03T09:22:03.538Z"}
+{"shot":"XD_de_1440_cart_after_edit","url":"https://www.expresta.de/order/shopping-cart","ts":"2026-11-03T09:22:16.430Z"}
+{"j":"XD-UX002","d":"de","t0":["https://www.expresta.de/image/resize/up_p/1793697682870_Bef4sz7A90gnT2HJOZfHTlWgrMbb0OOl_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/de/images/image-icons/zufriedenheitsgarantie-de-at.svg","https://cdn.expresta.com/de/images/image-icons/trusted-shops-at.svg"],"t1":["https://cdn.expresta.com/de/images/banners/resized/business-cards-sm.jpg","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/de/images/image-icons/zufriedenheitsgarantie-de-at.svg","https://cdn.expresta.com/de/images/image-icons/trusted-shops-at.svg"],"row":"","ts":"2026-11-03T09:22:16.430Z"}
+{"shot":"XD_de_1440_special_offer","url":"https://www.expresta.de/order/special-offer","ts":"2026-11-03T09:22:23.449Z"}
+{"j":"XD-UX009","d":"de","step":"fresh","url":"/order/special-offer","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:22:57.464Z"}
+{"shot":"XD_at_1440_cart_before_edit","url":"https://www.expresta.at/order/shopping-cart","ts":"2026-11-03T09:24:37.110Z"}
+{"shot":"XD_at_1440_edit_after_twosided","url":"https://www.expresta.at/order/product/visitenkarten/upload?c=6ae9a82c1dc02222107784&ba=edit&refetch=1","ts":"2026-11-03T09:24:54.229Z"}
+{"shot":"XD_at_1440_cart_after_edit","url":"https://www.expresta.at/order/shopping-cart","ts":"2026-11-03T09:25:22.940Z"}
+{"j":"XD-UX002","d":"at","t0":["https://www.expresta.at/image/resize/up_p/1793697848660_srxsDk0NpdZGmRh1N74kKvHafy9KlaK6_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/at/images/image-icons/zufriedenheitsgarantie-de-at.svg","https://cdn.expresta.com/at/images/image-icons/trusted-shops-at.svg"],"t1":["https://cdn.expresta.com/at/images/banners/resized/business-cards-sm.jpg","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/at/images/image-icons/zufriedenheitsgarantie-de-at.svg","https://cdn.expresta.com/at/images/image-icons/trusted-shops-at.svg"],"row":"","ts":"2026-11-03T09:25:22.941Z"}
+{"shot":"XD_at_1440_special_offer","url":"https://www.expresta.at/order/special-offer","ts":"2026-11-03T09:25:30.690Z"}
+{"j":"XD-UX009","d":"at","step":"fresh","url":"/order/special-offer","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:26:04.703Z"}
+{"shot":"XD_hu_1440_cart_before_edit","url":"https://www.expresta.hu/order/shopping-cart","ts":"2026-11-03T09:27:32.131Z"}
+{"shot":"XD_hu_1440_edit_after_twosided","url":"https://www.expresta.hu/order/product/nevjegykartya/upload?c=6ae9a8e3a2ed6973050061&ba=edit&refetch=1","ts":"2026-11-03T09:27:49.705Z"}
+{"shot":"XD_hu_1440_cart_after_edit","url":"https://www.expresta.hu/order/shopping-cart","ts":"2026-11-03T09:28:08.561Z"}
+{"j":"XD-UX002","d":"hu","t0":["https://www.expresta.hu/image/resize/up_p/1793698032421_UbbCGRt5ZayIBdnhMsU0TrP1BkBCbtP9_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/hu/images/image-icons/elegedettsegi-garancia-hu.svg"],"t1":["https://cdn.expresta.com/hu/images/banners/resized/nevjegykartyak-nyomtatasa-c-hu.jpg","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/hu/images/image-icons/elegedettsegi-garancia-hu.svg"],"row":"","ts":"2026-11-03T09:28:08.562Z"}
+{"j":"XD-UX009","d":"hu","step":"fresh","url":"/products/osszes-termek","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:28:42.615Z"}
+{"shot":"XD_eu_1440_cart_before_edit","url":"https://www.expresta.eu/order/shopping-cart","ts":"2026-11-03T09:30:23.122Z"}
+{"shot":"XD_eu_1440_edit_after_twosided","url":"https://www.expresta.eu/order/product/business-cards/upload?c=6ae9a981dc929041301175&ba=edit&refetch=1","ts":"2026-11-03T09:30:41.716Z"}
+{"shot":"XD_eu_1440_cart_after_edit","url":"https://www.expresta.eu/order/shopping-cart","ts":"2026-11-03T09:31:04.390Z"}
+{"j":"XD-UX002","d":"eu","t0":["https://www.expresta.eu/image/resize/up_p/1793698191283_bP8SHCQZP7v5RXrAjqWdARf2UNhCmW6D_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/eu/images/image-icons/satisfaction-guarantee-eu.svg","https://cdn.expresta.com/eu/images/image-icons/trusted-shops-eu.svg"],"t1":["https://cdn.expresta.com/eu/images/banners/resized/business-cards-sm.jpg","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/eu/images/image-icons/satisfaction-guarantee-eu.svg","https://cdn.expresta.com/eu/images/image-icons/trusted-shops-eu.svg"],"row":"","ts":"2026-11-03T09:31:04.391Z"}
+{"j":"XD-UX009","d":"eu","step":"fresh","url":"/order/shopping-cart","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:31:38.409Z"}
+{"shot":"XD_eu_1440_cart_before_edit","url":"https://www.expresta.eu/order/shopping-cart","ts":"2026-11-03T09:32:04.945Z"}
+{"shot":"XD_eu_1440_special_offer","url":"https://www.expresta.eu/order/special-offer","ts":"2026-11-03T09:32:12.302Z"}
+{"j":"XD-UX009","d":"eu","step":"fresh","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:32:24.944Z"}
+{"shot":"XD_eu_1440_cart_before_edit","url":"https://www.expresta.eu/order/shopping-cart","ts":"2026-11-03T09:34:19.907Z"}
+{"shot":"XD_hu_1440_cart_before_edit","url":"https://www.expresta.hu/order/shopping-cart","ts":"2026-11-03T09:34:23.028Z"}
+{"shot":"XD_at_1440_cart_before_edit","url":"https://www.expresta.at/order/shopping-cart","ts":"2026-11-03T09:34:23.276Z"}
+{"shot":"XD_de_1440_cart_before_edit","url":"https://www.expresta.de/order/shopping-cart","ts":"2026-11-03T09:34:24.224Z"}
+{"shot":"XD_eu_1440_special_offer","url":"https://www.expresta.eu/order/special-offer","ts":"2026-11-03T09:34:26.919Z"}
+{"shot":"XD_hu_1440_special_offer","url":"https://www.expresta.hu/order/special-offer","ts":"2026-11-03T09:34:30.732Z"}
+{"shot":"XD_at_1440_special_offer","url":"https://www.expresta.at/order/special-offer","ts":"2026-11-03T09:34:30.863Z"}
+{"shot":"XD_de_1440_special_offer","url":"https://www.expresta.de/order/special-offer","ts":"2026-11-03T09:34:31.639Z"}
+{"j":"XD-UX009","d":"eu","step":"fresh","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:34:44.059Z"}
+{"j":"XD-UX009","d":"at","step":"fresh","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:34:49.735Z"}
+{"j":"XD-UX009","d":"eu","step":"selected","url":"/order/delivery-payment","del":"delivery-type-37016","pay":"payment-type-56","payCount":1,"payTotal":12,"ts":"2026-11-03T09:34:50.805Z"}
+{"shot":"XD_eu_1440_delivery_selected","url":"https://www.expresta.eu/order/delivery-payment","ts":"2026-11-03T09:34:50.978Z"}
+{"j":"XD-UX009","d":"de","step":"fresh","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:34:51.486Z"}
+{"j":"XD-UX009","d":"eu","step":"next step","url":"/order/customer-data","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:34:55.052Z"}
+{"j":"XD-UX009","d":"at","step":"selected","url":"/order/delivery-payment","del":"delivery-type-63","pay":"payment-type-33","payCount":1,"payTotal":6,"ts":"2026-11-03T09:34:56.567Z"}
+{"shot":"XD_at_1440_delivery_selected","url":"https://www.expresta.at/order/delivery-payment","ts":"2026-11-03T09:34:56.732Z"}
+{"j":"XD-UX009","d":"de","step":"selected","url":"/order/delivery-payment","del":"delivery-type-6284","pay":"payment-type-63","payCount":1,"payTotal":6,"ts":"2026-11-03T09:34:58.355Z"}
+{"shot":"XD_de_1440_delivery_selected","url":"https://www.expresta.de/order/delivery-payment","ts":"2026-11-03T09:34:58.491Z"}
+{"j":"XD-UX009","d":"at","step":"next step","url":"/order/customer-data","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:35:00.818Z"}
+{"j":"XD-UX009","d":"de","step":"next step","url":"/order/customer-data","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:35:02.567Z"}
+{"j":"XD-UX009","d":"hu","step":"fresh","url":"/order/special-offer","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:35:04.755Z"}
+{"j":"XD-UX009","d":"eu","step":"browser back","url":"/order/delivery-payment","del":"delivery-type-37016","pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:35:15.849Z"}
+{"shot":"XD_eu_1440_delivery_after_back","url":"https://www.expresta.eu/order/delivery-payment","ts":"2026-11-03T09:35:16.039Z"}
+{"j":"XD-UX009","d":"at","step":"browser back","url":"/order/delivery-payment","del":"delivery-type-63","pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:35:22.639Z"}
+{"shot":"XD_at_1440_delivery_after_back","url":"https://www.expresta.at/order/delivery-payment","ts":"2026-11-03T09:35:22.832Z"}
+{"j":"XD-UX009","d":"de","step":"browser back","url":"/order/delivery-payment","del":"delivery-type-6284","pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:35:24.645Z"}
+{"shot":"XD_de_1440_delivery_after_back","url":"https://www.expresta.de/order/delivery-payment","ts":"2026-11-03T09:35:24.834Z"}
+{"j":"XD-UX009","d":"eu","step":"reload","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:35:34.936Z"}
+{"j":"XD-UX009","d":"at","step":"reload","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:35:42.663Z"}
+{"j":"XD-UX009","d":"de","step":"reload","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:35:44.351Z"}
+{"shot":"XD_hu_1440_cart_before_edit","url":"https://www.expresta.hu/order/shopping-cart","ts":"2026-11-03T09:36:54.727Z"}
+{"shot":"XD_hu_1440_special_offer","url":"https://www.expresta.hu/order/special-offer","ts":"2026-11-03T09:37:01.762Z"}
+{"j":"XD-UX009","d":"hu","step":"fresh","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:37:25.608Z"}
+{"j":"XD-UX009","d":"hu","step":"selected","url":"/order/delivery-payment","del":"delivery-type-1731","pay":"payment-type-81","payCount":1,"payTotal":5,"ts":"2026-11-03T09:37:32.329Z"}
+{"shot":"XD_hu_1440_delivery_selected","url":"https://www.expresta.hu/order/delivery-payment","ts":"2026-11-03T09:37:32.473Z"}
+{"j":"XD-UX009","d":"hu","step":"next step","url":"/order/delivery-payment","del":"delivery-type-1731","pay":"payment-type-81","payCount":1,"payTotal":5,"ts":"2026-11-03T09:37:36.482Z"}
+{"j":"XD-UX009","d":"hu","step":"browser back","url":"/order/special-offer","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:37:42.828Z"}
+{"shot":"XD_hu_1440_delivery_after_back","url":"https://www.expresta.hu/order/special-offer","ts":"2026-11-03T09:37:43.039Z"}
+{"j":"XD-UX009","d":"hu","step":"reload","url":"/order/special-offer","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:37:48.520Z"}
+{"shot":"XD_hu_1440_cart_before_edit","url":"https://www.expresta.hu/order/shopping-cart","ts":"2026-11-03T09:39:02.845Z"}
+{"shot":"XD_hu_1440_special_offer","url":"https://www.expresta.hu/order/special-offer","ts":"2026-11-03T09:39:09.708Z"}
+{"j":"XD-UX009","d":"hu","step":"fresh","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:39:26.634Z"}
+{"j":"XD-UX009","d":"hu","step":"selected","url":"/order/delivery-payment","del":"delivery-type-1731","pay":"payment-type-81","payCount":1,"payTotal":5,"ts":"2026-11-03T09:39:33.352Z"}
+{"shot":"XD_hu_1440_delivery_selected","url":"https://www.expresta.hu/order/delivery-payment","ts":"2026-11-03T09:39:33.492Z"}
+{"j":"XD-UX009","d":"hu","step":"next step","url":"/order/delivery-payment","del":"delivery-type-1731","pay":"payment-type-81","payCount":1,"payTotal":5,"ts":"2026-11-03T09:40:37.506Z"}
+{"j":"XD-UX009","d":"hu","step":"browser back","url":"/order/special-offer","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:40:44.103Z"}
+{"shot":"XD_hu_1440_delivery_after_back","url":"https://www.expresta.hu/order/special-offer","ts":"2026-11-03T09:40:44.320Z"}
+{"j":"XD-UX009","d":"hu","step":"reload","url":"/order/special-offer","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:40:51.025Z"}
+{"shot":"XD_hu_1440_cart_before_edit","url":"https://www.expresta.hu/order/shopping-cart","ts":"2026-11-03T09:42:01.991Z"}
+{"shot":"XD_hu_1440_special_offer","url":"https://www.expresta.hu/order/special-offer","ts":"2026-11-03T09:42:09.285Z"}
+{"j":"XD-UX009","d":"hu","step":"fresh","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:42:19.435Z"}
+{"j":"XD-UX009","d":"hu","step":"selected","url":"/order/delivery-payment","del":"delivery-type-1731","pay":"payment-type-81","payCount":1,"payTotal":5,"ts":"2026-11-03T09:42:26.177Z"}
+{"shot":"XD_hu_1440_delivery_selected","url":"https://www.expresta.hu/order/delivery-payment","ts":"2026-11-03T09:42:26.323Z"}
+{"j":"XD-UX009","d":"hu","step":"next step","url":"/order/delivery-payment","del":"delivery-type-1731","pay":"payment-type-81","payCount":1,"payTotal":5,"ts":"2026-11-03T09:43:30.335Z"}
+{"j":"XD-UX009","d":"hu","step":"browser back","url":"/order/special-offer","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:43:36.853Z"}
+{"shot":"XD_hu_1440_delivery_after_back","url":"https://www.expresta.hu/order/special-offer","ts":"2026-11-03T09:43:37.036Z"}
+{"j":"XD-UX009","d":"hu","step":"reload","url":"/order/special-offer","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:43:43.687Z"}
+{"shot":"XD_hu_1440_cart_before_edit","url":"https://www.expresta.hu/order/shopping-cart","ts":"2026-11-03T09:44:44.166Z"}
+{"shot":"XD_hu_1440_special_offer","url":"https://www.expresta.hu/order/special-offer","ts":"2026-11-03T09:44:51.450Z"}
+{"j":"XD-UX009","d":"hu","step":"fresh","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:45:02.310Z"}
+{"j":"XD-UX009","d":"hu","step":"selected","url":"/order/delivery-payment","del":"delivery-type-1731","pay":"payment-type-81","payCount":1,"payTotal":5,"ts":"2026-11-03T09:45:09.035Z"}
+{"shot":"XD_hu_1440_delivery_selected","url":"https://www.expresta.hu/order/delivery-payment","ts":"2026-11-03T09:45:09.178Z"}
+{"j":"XD-UX009","d":"hu","step":"next step","url":"/order/customer-data","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:45:13.237Z"}
+{"j":"XD-UX009","d":"hu","step":"browser back","url":"/order/delivery-payment","del":"delivery-type-1731","pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:45:22.615Z"}
+{"shot":"XD_hu_1440_delivery_after_back","url":"https://www.expresta.hu/order/delivery-payment","ts":"2026-11-03T09:45:22.841Z"}
+{"j":"XD-UX009","d":"hu","step":"reload","url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0,"ts":"2026-11-03T09:45:31.618Z"}
+{"shot":"ED_sk_desktop_step2","url":"https://www.expresta.sk/order/product/vizitky-variation/templates?c=6ae9ad63aa1be231240808","ts":"2026-11-03T09:46:18.210Z"}
+{"shot":"ED_sk_desktop_blank","url":"https://www.expresta.sk/order/product/vizitky-variation/studio//90x50/landscape/simplex/6ae9ad63aa1be231240808","ts":"2026-11-03T09:46:39.822Z"}
+{"shot":"ED_sk_desktop_create","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9add0647a3958094608#&projectId=81477ea2-82b9-4bce-b2f7-bad5e1c5d54d","ts":"2026-11-03T09:48:47.727Z"}
+{"shot":"ED_sk_desktop_explore","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9add0647a3958094608#&projectId=02146bbc-5cb8-4554-9151-2919c73ee129","ts":"2026-11-03T09:49:51.521Z"}
+{"shot":"ED_sk_desktop_overlap","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9add0647a3958094608#&projectId=bce61aee-49f5-4dd8-a244-0a408a508034","ts":"2026-11-03T09:51:13.242Z"}
+{"shot":"ED_sk_desktop_help_click","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9add0647a3958094608#&projectId=ea6fa88d-03bd-4342-83d9-b95af687bbd0","ts":"2026-11-03T09:51:47.560Z"}
+{"shot":"ED_sk_desktop_text_added","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9add0647a3958094608#&projectId=ea6fa88d-03bd-4342-83d9-b95af687bbd0","ts":"2026-11-03T09:51:54.250Z"}
+{"shot":"ED_sk_desktop_after_save_click","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9add0647a3958094608#&projectId=ea6fa88d-03bd-4342-83d9-b95af687bbd0","ts":"2026-11-03T09:51:58.526Z"}
+{"shot":"ED_sk_desktop_text_typed","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9add0647a3958094608#&projectId=26e4025d-0e3f-4aa9-9bef-8ee6b07d28a7","ts":"2026-11-03T09:53:09.062Z"}
+{"shot":"ED_sk_desktop_after_reload","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9add0647a3958094608#&projectId=f2c9d896-2d33-4228-a6e9-9d655be10cbd","ts":"2026-11-03T09:53:21.886Z"}
+{"shot":"ED_sk_desktop_addcart_empty","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9add0647a3958094608#&step=editor","ts":"2026-11-03T09:54:10.822Z"}
+{"shot":"ED_sk_desktop_create2","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9af839c825349908713#&projectId=aa530a49-bc39-4efd-85be-baa35e0fbcc7","ts":"2026-11-03T09:56:02.117Z"}
+{"shot":"ED_sk_desktop_addcart_empty","url":"https://www.expresta.sk/order/shopping-cart","ts":"2026-11-03T09:56:32.544Z"}
+{"shot":"ED_sk_desktop_cart_editor_item","url":"https://www.expresta.sk/order/shopping-cart","ts":"2026-11-03T09:56:52.942Z"}
+{"shot":"ED_sk_desktop_cart_edit_opened","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9af839c825349908713/22785691-c881-4cf5-8729-44039117b61e/1#&projectId=22785691-c881-4cf5-8729-44039117b61e","ts":"2026-11-03T09:57:06.641Z"}
+{"shot":"ED_sk_desktop_create3","url":"https://www.expresta.sk/order/product/vizitky-variation/studio//90x50/landscape/simplex/6ae9b01173e1d910060946","ts":"2026-11-03T09:57:54.997Z"}
+{"j":"ED-404","vp":"desktop","i":0,"variant":"/vizitky","href":"/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b063636d7344056687","status":200,"title":"Návrh a tlač vizitiek online – krabička ","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b063636d7344056687#","ts":"2026-11-03T09:59:15.570Z"}
+{"j":"ED-404","vp":"desktop","i":1,"variant":"/vizitky","href":"/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b07dbbe46062818889","status":200,"title":"Návrh a tlač vizitiek online – krabička ","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b07dbbe46062818889#&pro","ts":"2026-11-03T09:59:42.623Z"}
+{"j":"ED-404","vp":"desktop","i":2,"variant":"/vizitky","href":"/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b0988f3f2198940363","status":200,"title":"Návrh a tlač vizitiek online – krabička ","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b0988f3f2198940363#","ts":"2026-11-03T10:00:08.399Z"}
+{"shot":"ED_sk_desktop_create_404","url":"https://www.expresta.sk/order/product/vizitky-variation/studio//90x50/landscape/simplex/6ae9b0b2d334b288940040","ts":"2026-11-03T10:00:29.896Z"}
+{"j":"ED-404","vp":"desktop","i":3,"variant":"/vizitky-variation","href":"/order/product/vizitky-variation/studio//90x50/landscape/simplex/6ae9b0b2d334b288940040","status":404,"title":"Chyba 404 stránka nebola nájdená | Expre","url":"https://www.expresta.sk/order/product/vizitky-variation/studio//90x50/landscape/simplex/6ae9b0b2d334b288940040","ts":"2026-11-03T10:00:34.766Z"}
+{"j":"ED-404","vp":"desktop","i":4,"variant":"/vizitky","href":"/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b0cd0526b409287591","status":200,"title":"Návrh a tlač vizitiek online – krabička ","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b0cd0526b409287591#","ts":"2026-11-03T10:01:01.819Z"}
+{"j":"ED-404","vp":"desktop","i":5,"variant":"/vizitky","href":"/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b0e8127eb620738944","status":200,"title":"Návrh a tlač vizitiek online – krabička ","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b0e8127eb620738944#","ts":"2026-11-03T10:01:28.796Z"}
+{"j":"ED-404","vp":"desktop","i":6,"variant":"/vizitky","href":"/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b1031f47f195407721","status":200,"title":"Návrh a tlač vizitiek online – krabička ","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b1031f47f195407721#&pro","ts":"2026-11-03T10:01:55.903Z"}
+{"j":"ED-404","vp":"desktop","i":7,"variant":"/vizitky","href":"/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b11e10be0345550876","status":200,"title":"Návrh a tlač vizitiek online – krabička ","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b11e10be0345550876#&pro","ts":"2026-11-03T10:02:22.043Z"}
+{"shot":"ED_sk_desktop_variation_tpl0","url":"https://www.expresta.sk/order/product/vizitky-variation/studio/Sweet%2520Tone/90x50/portrait/simplex/6ae9b1d00809e165361476#&size=90x50%20Portrait%20Simplex&theme=Sweet%20Tone&projectId=5954a34d-cd9e-42e9-a802-e0ab5925047c","ts":"2026-11-03T10:05:23.892Z"}
+{"shot":"ED_sk_desktop_variation_tpl4","url":"https://www.expresta.sk/order/product/vizitky-variation/studio/Harmony/90x55/portrait/simplex/6ae9b1d00809e165361476#&size=90x55%20Portrait%20Simplex&theme=Harmony&projectId=3a9f2328-d518-4fbf-8fd2-0225631cd9e5","ts":"2026-11-03T10:05:38.077Z"}
+{"shot":"HYPC_sk_1440_step2_template_card","url":"https://www.expresta.sk/order/product/vizitky-variation/templates?c=6ae9b2126e72b378332496","ts":"2026-11-03T10:06:16.784Z"}
+{"shot":"HYPC_sk_1440_editor_template","url":"https://www.expresta.sk/order/product/vizitky-variation/studio/Blocks/85x55/landscape/duplex/6ae9b2126e72b378332496#&size=85x55%20Landscape%20Duplex&theme=Blocks&projectId=5fa1945f-dc4d-452b-bde4-7d40ac8b5852","ts":"2026-11-03T10:06:28.911Z"}
+{"shot":"HYPC_sk_1440_cart","url":"https://www.expresta.sk/order/product/vizitky-variation/studio/Blocks/85x55/landscape/duplex/6ae9b2126e72b378332496#&step=editor&size=85x55%20Landscape%20Duplex&theme=Blocks&route=remarks","ts":"2026-11-03T10:07:33.370Z"}
+{"shot":"HYPC_sk_1440_step2_template_card","url":"https://www.expresta.sk/order/product/vizitky/templates?c=6ae9b29d7806a877306808","ts":"2026-11-03T10:08:36.174Z"}
+{"shot":"HYPC_sk_1440_editor_template","url":"https://www.expresta.sk/order/product/vizitky/studio/Blocks/85x55/landscape/duplex/6ae9b29d7806a877306808#&size=85x55%20Landscape%20Duplex&theme=Blocks&projectId=bcd22302-a3af-425e-a4d8-4ac889bda771","ts":"2026-11-03T10:08:48.346Z"}
+{"shot":"HYPC_sk_1440_remarks","url":"https://www.expresta.sk/order/product/vizitky/studio/Blocks/85x55/landscape/duplex/6ae9b29d7806a877306808#&step=editor&size=85x55%20Landscape%20Duplex&theme=Blocks&route=remarks","ts":"2026-11-03T10:09:51.715Z"}
+{"shot":"HYPC_sk_1440_step2_template_card","url":"https://www.expresta.sk/order/product/vizitky/templates?c=6ae9b323498cc104306492","ts":"2026-11-03T10:10:50.393Z"}
+{"shot":"HYPC_sk_1440_editor_template","url":"https://www.expresta.sk/order/product/vizitky/studio/Blocks/85x55/landscape/duplex/6ae9b323498cc104306492#&size=85x55%20Landscape%20Duplex&theme=Blocks&projectId=07a542bd-b31d-4b30-9cce-176e5f6233ea","ts":"2026-11-03T10:11:02.517Z"}
+{"shot":"HYPC_sk_1440_remarks","url":"https://www.expresta.sk/order/product/vizitky/studio/Blocks/85x55/landscape/duplex/6ae9b323498cc104306492#&step=editor&size=85x55%20Landscape%20Duplex&theme=Blocks&route=remarks","ts":"2026-11-03T10:12:05.827Z"}
+{"shot":"HYPC_sk_1440_cart","url":"https://www.expresta.sk/order/shopping-cart","ts":"2026-11-03T10:12:27.826Z"}
+{"shot":"ED_sk_m390_step2_cta","url":"https://www.expresta.sk/order/product/vizitky/templates?c=6ae9b3d5996b9538031808","ts":"2026-11-03T10:13:48.235Z"}
+{"shot":"ED_sk_m390_editor","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b3d5996b9538031808#&projectId=491ab9fd-ee75-47c6-8fbe-3a4a889f330c","ts":"2026-11-03T10:14:30.071Z"}
+{"shot":"ED_sk_m390_after_back_arrow","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b44ca6e74253152153#&step=editor&route=slide","ts":"2026-11-03T10:16:04.336Z"}
+{"shot":"ED_sk_m390_menu","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b44ca6e74253152153#&step=editor&route=slide","ts":"2026-11-03T10:16:06.518Z"}
+{"shot":"ED_sk_m390_after_back_arrow","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b48003ad7521750880#&step=editor&route=slide","ts":"2026-11-03T10:16:55.904Z"}
+{"shot":"ED_sk_m390_bottom_scrolled","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b48003ad7521750880#&step=editor&route=slide","ts":"2026-11-03T10:16:56.838Z"}
+{"shot":"ED_sk_m390_menu","url":"https://www.expresta.sk/order/product/vizitky/studio/Blank/90x50/landscape/simplex/6ae9b48003ad7521750880#&step=editor&route=slide","ts":"2026-11-03T10:16:58.974Z"}
+{"j":"HYP-B","step":"default","val":"250","ss":null,"se":null,"ts":"2026-11-03T10:17:25.546Z"}
+{"j":"HYP-B","step":"after Ctrl+A (selection should be 0..3)","val":"250","ss":null,"se":null,"ts":"2026-11-03T10:17:25.678Z"}
+{"j":"HYP-B","step":"typed 500 over selection","val":"500","ss":null,"se":null,"ts":"2026-11-03T10:17:25.700Z"}
+{"j":"HYP-B","step":"Home (ss should be 0)","val":"500","ss":null,"se":null,"ts":"2026-11-03T10:17:25.707Z"}
+{"j":"HYP-B","step":"End (ss should be len)","val":"500","ss":null,"se":null,"ts":"2026-11-03T10:17:25.714Z"}
+{"j":"HYP-B","step":"ArrowLeft","val":"500","ss":null,"se":null,"ts":"2026-11-03T10:17:25.721Z"}
+{"j":"HYP-B","step":"Delete","val":"50","ss":null,"se":null,"ts":"2026-11-03T10:17:25.729Z"}
+{"j":"HYP-B","step":"Backspace","val":"5","ss":null,"se":null,"ts":"2026-11-03T10:17:25.735Z"}
+{"j":"HYP-B","step":"Ctrl+A, Ctrl+V \"1000\"","val":"5","ss":null,"se":null,"ts":"2026-11-03T10:17:26.137Z"}
+{"j":"HYP-B","step":"Ctrl+V \"1 000\" (with space)","val":"5","ss":null,"se":null,"ts":"2026-11-03T10:17:26.535Z"}
+{"j":"HYP-B","step":"Shift+Insert \"750\"","val":"5","ss":null,"se":null,"ts":"2026-11-03T10:17:26.893Z"}
+{"j":"HYP-B","step":"Ctrl+Z","val":"300","ss":null,"se":null,"ts":"2026-11-03T10:17:27.003Z"}
+{"j":"HYP-B","step":"typed 400 + Tab","val":"400","ss":null,"se":null,"ts":"2026-11-03T10:17:28.656Z"}
+{"j":"HYP-B","step":"Numpad 250","val":"400","ss":null,"se":null,"ts":"2026-11-03T10:17:28.737Z"}
+{"shot":"HYPB_sk_1440_qty_after_tests","url":"https://www.expresta.sk/vizitky-variation","ts":"2026-11-03T10:17:28.918Z"}
+{"j":"HYP-B2","test":"empty + Ctrl+V \"1000\"","val":"","ts":"2026-11-03T10:17:54.346Z"}
+{"j":"HYP-B2","test":"empty + Shift+Insert \"1000\"","val":"","ts":"2026-11-03T10:17:54.680Z"}
+{"j":"HYP-B2","test":"empty + Numpad 2,5,0","val":"","ts":"2026-11-03T10:17:55.012Z"}
+{"j":"HYP-B2","test":"empty + digits 2,5,0","val":"250","ts":"2026-11-03T10:17:55.363Z"}
+{"j":"HYP-B2","test":"\"250\" then Ctrl+A, Backspace","val":"25","ts":"2026-11-03T10:17:55.732Z"}
+{"j":"HYP-B2","test":"\"250\" then Home, 1","val":"2501","ts":"2026-11-03T10:17:56.086Z"}
+{"j":"HYP-B2","test":"\"250\" then Ctrl+Backspace","val":"","ts":"2026-11-03T10:17:56.460Z"}
+{"j":"HYP-B2","test":"\"250\" then ArrowUp","val":"250","ts":"2026-11-03T10:17:56.820Z"}
+{"shot":"MB_sk_m390_brochure_top","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:18:35.835Z"}
+{"shot":"MB_sk_m390_brochure_pages","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:18:36.463Z"}
+{"shot":"MB_sk_m390_brochure_after_pages40","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:18:38.319Z"}
+{"shot":"MB_sk_m390_brochure_after_calc","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:18:41.564Z"}
+{"shot":"MB_sk_m390_brochure_binding_drawer","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:18:43.325Z"}
+{"shot":"MB_sk_m390_brochure_upload_top","url":"https://www.expresta.sk/order/product/tlac-brozur/content-upload?c=6ae9b5055b9a0685341229","ts":"2026-11-03T10:18:57.340Z"}
+{"shot":"MB_sk_m390_brochure_upload_done","url":"https://www.expresta.sk/order/product/tlac-brozur/content-upload?c=6ae9b5055b9a0685341229","ts":"2026-11-03T10:19:38.215Z"}
+{"shot":"MB_sk_m390_brochure_top","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:20:00.556Z"}
+{"shot":"MB_sk_m390_brochure_pages","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:20:01.216Z"}
+{"shot":"MB_sk_m390_brochure_after_pages40","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:20:03.056Z"}
+{"shot":"MB_sk_m390_brochure_after_calc","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:20:06.407Z"}
+{"shot":"MB_sk_m390_brochure_binding_drawer","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:20:08.240Z"}
+{"shot":"MB_sk_m390_brochure_upload_top","url":"https://www.expresta.sk/order/product/tlac-brozur/content-upload?c=6ae9b55a513fa262499216","ts":"2026-11-03T10:20:23.033Z"}
+{"shot":"MB_sk_m390_brochure_upload_done","url":"https://www.expresta.sk/order/product/tlac-brozur/content-upload?c=6ae9b55a513fa262499216","ts":"2026-11-03T10:21:54.699Z"}
+{"shot":"MB_sk_m390_brochure_top","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:22:14.819Z"}
+{"shot":"MB_sk_m390_brochure_pages","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:22:15.452Z"}
+{"shot":"MB_sk_m390_brochure_after_pages40","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:22:17.304Z"}
+{"shot":"MB_sk_m390_brochure_after_calc","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:22:20.793Z"}
+{"shot":"MB_sk_m390_brochure_binding_drawer","url":"https://www.expresta.sk/tlac-brozur","ts":"2026-11-03T10:22:22.630Z"}
+{"shot":"MB_sk_m390_brochure_upload_top","url":"https://www.expresta.sk/order/product/tlac-brozur/content-upload?c=6ae9b5e0b8b9a903386194","ts":"2026-11-03T10:22:37.096Z"}
+{"shot":"MB_sk_m390_brochure_upload_done","url":"https://www.expresta.sk/order/product/tlac-brozur/content-upload?c=6ae9b5e0b8b9a903386194","ts":"2026-11-03T10:24:08.728Z"}
+{"shot":"MB_sk_m390_brochure_after_continue","url":"https://www.expresta.sk/order/product/tlac-brozur/content-preview?c=6ae9b5e0b8b9a903386194","ts":"2026-11-03T10:24:46.084Z"}
+{"shot":"NAV_sk_m390_header","url":"https://www.expresta.sk/","ts":"2026-11-03T10:26:07.432Z"}
+{"shot":"NAV_sk_m390_menu_open","url":"https://www.expresta.sk/","ts":"2026-11-03T10:26:24.293Z"}
+{"shot":"NAV_sk_m390_menu_open","url":"https://www.expresta.sk/","ts":"2026-11-03T10:27:21.381Z"}
+{"shot":"NAV_sk_m390_menu_open","url":"https://www.expresta.sk/","ts":"2026-11-03T10:28:05.306Z"}
+{"shot":"NAV_sk_m390_menu_open","url":"https://www.expresta.sk/","ts":"2026-11-03T10:28:51.177Z"}
+{"shot":"NAV_sk_m390_menu_l2","url":"https://www.expresta.sk/","ts":"2026-11-03T10:28:52.830Z"}
+{"shot":"NAV_sk_m390_menu_l3","url":"https://www.expresta.sk/products/tlac","ts":"2026-11-03T10:28:55.190Z"}
+{"shot":"NAV_sk_m390_search_letak","url":"https://www.expresta.sk/","ts":"2026-11-03T10:29:04.221Z"}
+{"shot":"NAV_sk_m390_search_enter_plagat","url":"https://www.expresta.sk/category/doplnky","ts":"2026-11-03T10:29:17.007Z"}
+{"shot":"PDP_sk_1440_letaky","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:29:40.674Z"}
+{"j":"FLY","step":"default","params":["ROZMER A OHYB A5","MATERIÁL Lesklý papier (0,11 mm / 150 g/m²)","EXTRA MOŽNOSTI Vyberte","TLAČ Jednostranná tlač Obojstranná tlač Obojstranná tlač","POČET KÓPIÍ"],"price":"137,64","ts":"2026-11-03T10:30:03.199Z"}
+{"shot":"FLY_sk_1440_extra_drawer","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:30:04.985Z"}
+{"shot":"FLY_sk_1440_after_uv_click","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:30:37.122Z"}
+{"shot":"FLY_sk_1440_after_filter","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:30:39.378Z"}
+{"j":"FLY","step":"after finishing attempts","params":["ROZMER A OHYB A5","MATERIÁL Lesklý papier (0,11 mm / 150 g/m²)","EXTRA MOŽNOSTI Vyberte","TLAČ Jednostranná tlač Obojstranná tlač Obojstranná tlač","POČET KÓPIÍ"],"price":"137,64","ts":"2026-11-03T10:30:39.381Z"}
+{"j":"FLY-dep","step":"default","params":["ROZMER A OHYB A5","MATERIÁL Lesklý papier (0,11 mm / 150 g/m²)","EXTRA MOŽNOSTI Vyberte","TLAČ Jednostranná tlač Obojstranná tlač Obojstranná tlač"],"price":"137,64","calc":false,"toasts":[],"ts":"2026-11-03T10:31:09.158Z"}
+{"shot":"FLY_sk_1440_material_filter","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:31:12.421Z"}
+{"j":"FLY-dep","step":"after material pick","params":["ROZMER A OHYB A5","MATERIÁL Lesklý papier (0,11 mm / 150 g/m²)","EXTRA MOŽNOSTI Vyberte","TLAČ Jednostranná tlač Obojstranná tlač Obojstranná tlač"],"price":"137,64","calc":false,"toasts":[],"ts":"2026-11-03T10:31:14.949Z"}
+{"j":"FLY-dep","step":"after calc","params":["ROZMER A OHYB A5","MATERIÁL Lesklý papier (0,11 mm / 150 g/m²)","EXTRA MOŽNOSTI Vyberte","TLAČ Jednostranná tlač Obojstranná tlač Obojstranná tlač"],"price":"137,64","calc":false,"toasts":[],"ts":"2026-11-03T10:31:14.962Z"}
+{"shot":"FLY_sk_1440_uv_selected","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:31:18.705Z"}
+{"j":"FLY-dep","step":"after UV","params":["ROZMER A OHYB A5","MATERIÁL Lesklý papier (0,11 mm / 150 g/m²)","EXTRA MOŽNOSTI Vyberte","TLAČ Jednostranná tlač Obojstranná tlač Obojstranná tlač"],"price":"137,64","calc":false,"toasts":[],"ts":"2026-11-03T10:31:18.712Z"}
+{"j":"FLY-dep","step":"after UV calc","params":["ROZMER A OHYB A5","MATERIÁL Lesklý papier (0,11 mm / 150 g/m²)","EXTRA MOŽNOSTI Vyberte","TLAČ Jednostranná tlač Obojstranná tlač Obojstranná tlač"],"price":"137,64","calc":false,"toasts":[],"ts":"2026-11-03T10:31:19.537Z"}
+{"j":"FLY-dep","step":"after back to 150g","params":["ROZMER A OHYB A5","MATERIÁL Lesklý papier (0,11 mm / 150 g/m²)","EXTRA MOŽNOSTI Vyberte","TLAČ Jednostranná tlač Obojstranná tlač Obojstranná tlač"],"price":"137,64","calc":false,"toasts":[],"ts":"2026-11-03T10:31:24.646Z"}
+{"j":"FLY-dep","step":"after calc 150g","params":["ROZMER A OHYB A5","MATERIÁL Lesklý papier (0,11 mm / 150 g/m²)","EXTRA MOŽNOSTI Vyberte","TLAČ Jednostranná tlač Obojstranná tlač Obojstranná tlač"],"price":"137,64","calc":false,"toasts":[],"ts":"2026-11-03T10:31:24.661Z"}
+{"shot":"FLY_sk_1440_back_to_150g","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:31:24.793Z"}
+{"shot":"FLY_sk_1440_paper_drawer_open","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:31:45.340Z"}
+{"j":"FLY-dep2","step":"default","params":["A5","Lesklý papier (0,11 mm / 150 g/m²)","Vyberte",""],"sides":"2","price":"137,64","calc":false,"speed":"137,64 € ⛵ RELAX: výro / 167,70 € 🚀 EXPRES: vý / 258,21 € ⚡ BLESKOVO: v","toasts":[],"ts":"2026-11-03T10:32:31.295Z"}
+{"shot":"FLY_sk_1440_filter_finishing","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:32:35.405Z"}
+{"j":"FLY-dep2","step":"picked Lesklý papier (0,148 mm / 200 g/m²)","params":["A5","Lesklý papier (0,148 mm / 200 g/m²)","Vyberte",""],"sides":"2","price":"(hidden)","calc":true,"speed":"137,64 € ⛵ RELAX: výro / 167,70 € 🚀 EXPRES: vý / 258,21 € ⚡ BLESKOVO: v","toasts":[],"ts":"2026-11-03T10:32:38.018Z"}
+{"j":"FLY-dep2","step":"calc","params":["A5","Lesklý papier (0,148 mm / 200 g/m²)","Vyberte",""],"sides":"2","price":"153,54","calc":false,"speed":"153,54 € ⛵ RELAX: výro / 186,65 € 🚀 EXPRES: vý / 287,34 € ⚡ BLESKOVO: v","toasts":[],"ts":"2026-11-03T10:32:43.347Z"}
+{"shot":"FLY_sk_1440_uv_selected","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:32:46.966Z"}
+{"j":"FLY-dep2","step":"UV selected","params":["A5","Lesklý papier (0,148 mm / 200 g/m²)","Vyberte",""],"sides":"2","price":"153,54","calc":false,"speed":"153,54 € ⛵ RELAX: výro / 186,65 € 🚀 EXPRES: vý / 287,34 € ⚡ BLESKOVO: v","toasts":[],"ts":"2026-11-03T10:32:46.970Z"}
+{"j":"FLY-dep2","step":"UV calc","params":["A5","Lesklý papier (0,148 mm / 200 g/m²)","Vyberte",""],"sides":"2","price":"153,54","calc":false,"speed":"153,54 € ⛵ RELAX: výro / 186,65 € 🚀 EXPRES: vý / 287,34 € ⚡ BLESKOVO: v","toasts":[],"ts":"2026-11-03T10:32:46.980Z"}
+{"j":"FLY-dep2","step":"back to 150g","params":["A5","Lesklý papier (0,11 mm / 150 g/m²)","Vyberte",""],"sides":"2","price":"(hidden)","calc":true,"speed":"153,54 € ⛵ RELAX: výro / 186,65 € 🚀 EXPRES: vý / 287,34 € ⚡ BLESKOVO: v","toasts":[],"ts":"2026-11-03T10:32:51.977Z"}
+{"shot":"FLY_sk_1440_back_150g","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:32:52.101Z"}
+{"j":"FLY-dep2","step":"calc 150g","params":["A5","Lesklý papier (0,11 mm / 150 g/m²)","Vyberte",""],"sides":"2","price":"137,64","calc":false,"speed":"137,64 € ⛵ RELAX: výro / 167,70 € 🚀 EXPRES: vý / 258,21 € ⚡ BLESKOVO: v","toasts":[],"ts":"2026-11-03T10:32:55.901Z"}
+{"shot":"FLY_sk_1440_stale_speed_prices","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:33:27.176Z"}
+{"shot":"FLY_sk_1440_stale_amount_table","url":"https://www.expresta.sk/letaky","ts":"2026-11-03T10:33:29.560Z"}
+{"shot":"POS_sk_1440_size_drawer","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:33:59.065Z"}
+{"j":"POS","step":"default A3","size":"A3","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"296,36","calc":false,"msgs":[],"ts":"2026-11-03T10:34:22.727Z"}
+{"shot":"POS_sk_1440_custom_size","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:34:26.645Z"}
+{"j":"POS","step":"default A3","size":"A3","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"296,36","calc":false,"msgs":[],"ts":"2026-11-03T10:35:09.804Z"}
+{"shot":"POS_sk_1440_custom_size","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:35:13.715Z"}
+{"j":"POS","step":"default A3","size":"A3","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"296,36","calc":false,"msgs":[],"ts":"2026-11-03T10:35:58.260Z"}
+{"shot":"POS_sk_1440_custom_size","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:36:03.856Z"}
+{"j":"POS","step":"custom 500x700 (fields os-width=500,os-height=700) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\"] okBtn=0","size":"500x700 mm","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"(hidden)","calc":true,"msgs":[],"ts":"2026-11-03T10:36:05.261Z"}
+{"j":"POS","step":"  -> after calc 500x700","size":"500x700 mm","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"678,04","calc":false,"msgs":[],"ts":"2026-11-03T10:36:10.684Z"}
+{"j":"POS","step":"custom 5000x5000 (fields os-width=5000,os-height=5000) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\"] okBtn=0","size":"5000x5000 mm","mat":"Lesklý plagátový papier (0,14 mm / 130 g","price":"(hidden)","calc":true,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:36:13.695Z"}
+{"j":"POS","step":"  -> after calc 5000x5000","size":"5000x5000 mm","mat":"Lesklý plagátový papier (0,14 mm / 130 g","price":"(hidden)","calc":false,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:36:19.819Z"}
+{"shot":"POS_sk_1440_custom_5000","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:36:19.932Z"}
+{"j":"POS","step":"default A3","size":"A3","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"296,36","calc":false,"msgs":[],"ts":"2026-11-03T10:37:07.068Z"}
+{"shot":"POS_sk_1440_custom_size","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:37:12.527Z"}
+{"j":"POS","step":"custom 500x700 (fields os-width=500,os-height=700) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\"] okBtn=0","size":"500x700 mm","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"(hidden)","calc":true,"msgs":[],"ts":"2026-11-03T10:37:13.930Z"}
+{"j":"POS","step":"  -> after calc 500x700","size":"500x700 mm","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"678,04","calc":false,"msgs":[],"ts":"2026-11-03T10:37:16.549Z"}
+{"j":"POS","step":"custom 5000x5000 (fields os-width=5000,os-height=5000) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\"] okBtn=0","size":"5000x5000 mm","mat":"Lesklý plagátový papier (0,14 mm / 130 g","price":"(hidden)","calc":true,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:37:19.545Z"}
+{"j":"POS","step":"  -> after calc 5000x5000","size":"5000x5000 mm","mat":"Lesklý plagátový papier (0,14 mm / 130 g","price":"(hidden)","calc":false,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:37:23.571Z"}
+{"shot":"POS_sk_1440_custom_5000","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:37:23.676Z"}
+{"j":"POS","step":"default A3","size":"A3","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"296,36","calc":false,"msgs":[],"ts":"2026-11-03T10:38:08.144Z"}
+{"shot":"POS_sk_1440_custom_size","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:38:13.704Z"}
+{"j":"POS","step":"custom 500x700 (fields os-width=500,os-height=700) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\"] okBtn=0","size":"500x700 mm","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"(hidden)","calc":true,"msgs":[],"ts":"2026-11-03T10:38:15.098Z"}
+{"j":"POS","step":"  -> after calc 500x700","size":"500x700 mm","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"678,04","calc":false,"msgs":[],"ts":"2026-11-03T10:38:17.807Z"}
+{"j":"POS","step":"custom 5000x5000 (fields os-width=5000,os-height=5000) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\"] okBtn=0","size":"5000x5000 mm","mat":"Lesklý plagátový papier (0,14 mm / 130 g","price":"(hidden)","calc":true,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:38:20.846Z"}
+{"j":"POS","step":"  -> after calc 5000x5000","size":"5000x5000 mm","mat":"Lesklý plagátový papier (0,14 mm / 130 g","price":"(hidden)","calc":false,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:38:27.755Z"}
+{"shot":"POS_sk_1440_custom_5000","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:38:27.950Z"}
+{"j":"POS","step":"default A3","size":"A3","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"296,36","calc":false,"msgs":[],"ts":"2026-11-03T10:39:13.457Z"}
+{"shot":"POS_sk_1440_custom_size","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:39:18.996Z"}
+{"j":"POS","step":"custom 500x700 (fields os-width=500,os-height=700) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\"] okBtn=0","size":"500x700 mm","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"(hidden)","calc":true,"msgs":[],"ts":"2026-11-03T10:39:20.372Z"}
+{"j":"POS","step":"  -> after calc 500x700","size":"500x700 mm","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"678,04","calc":false,"msgs":[],"ts":"2026-11-03T10:39:22.994Z"}
+{"j":"POS","step":"custom 5000x5000 (fields os-width=5000,os-height=5000) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\"] okBtn=0","size":"5000x5000 mm","mat":"","price":"(hidden)","calc":true,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:39:25.892Z"}
+{"j":"POS","step":"  -> after calc 5000x5000","size":"5000x5000 mm","mat":"","price":"(hidden)","calc":true,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:39:41.148Z"}
+{"shot":"POS_sk_1440_custom_5000","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:39:41.290Z"}
+{"j":"POS","step":"custom 500x700 (fields os-width=500,os-height=700) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\"] okBtn=0","size":"500x700 mm","mat":"Lesklý plagátový papier (0,14 mm / 130 g","price":"(hidden)","calc":true,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:39:44.669Z"}
+{"j":"POS","step":"  -> after calc 500x700","size":"500x700 mm","mat":"Lesklý plagátový papier (0,14 mm / 130 g","price":"638,22","calc":false,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:39:48.782Z"}
+{"j":"POS","step":"custom 10x10 (fields os-width=10,os-height=10) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\",\"Minimálna veľkosť je 30 mm VÝŠKA [MM] Minimálna veľkosť je 30 mm OHYB Bez ohybu Sklad na polovicu Sklad do C (na tretiny, z\"] okBtn=0","size":"10x10 mm","mat":"Lesklý papier (0,086 mm / 115 g/m²)","price":"(hidden)","calc":true,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:39:51.933Z"}
+{"j":"POS","step":"  -> after calc 10x10","size":"10x10 mm","mat":"Lesklý papier (0,086 mm / 115 g/m²)","price":"(hidden)","calc":true,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:40:07.210Z"}
+{"shot":"POS_sk_1440_custom_10","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:40:07.410Z"}
+{"j":"POS","step":"custom abcx-5 (fields os-width=,os-height=5) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\",\"Minimálna veľkosť je 30 mm OHYB Bez ohybu Sklad na polovicu Sklad do C (na tretiny, zavinovací) Sklad do Z (na tretiny, har\"] okBtn=0","size":"x5 mm","mat":"Lesklý papier (0,086 mm / 115 g/m²)","price":"(hidden)","calc":true,"msgs":[],"ts":"2026-11-03T10:40:08.737Z"}
+{"j":"POS","step":"  -> after calc abcx-5","size":"x5 mm","mat":"Lesklý papier (0,086 mm / 115 g/m²)","price":"(hidden)","calc":true,"msgs":[],"ts":"2026-11-03T10:40:23.992Z"}
+{"j":"POS","step":"default A3","size":"A3","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"296,36","calc":false,"msgs":[],"ts":"2026-11-03T10:40:45.001Z"}
+{"shot":"POS_sk_1440_custom_size","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:40:50.507Z"}
+{"j":"POS","step":"custom 500x700 (fields os-width=500,os-height=700) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\"] okBtn=0","size":"500x700 mm","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"(hidden)","calc":true,"msgs":[],"ts":"2026-11-03T10:40:51.910Z"}
+{"j":"POS","step":"  -> after calc 500x700","size":"500x700 mm","mat":"Lesklý papier (0,11 mm / 150 g/m²)","price":"678,04","calc":false,"msgs":[],"ts":"2026-11-03T10:40:54.486Z"}
+{"shot":"POS_sk_1440_seq1_500x700","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:40:54.870Z"}
+{"j":"POS","step":"custom 5000x5000 (fields os-width=5000,os-height=5000) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\"] okBtn=0","size":"5000x5000 mm","mat":"Lesklý plagátový papier (0,14 mm / 130 g","price":"(hidden)","calc":true,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:40:57.833Z"}
+{"j":"POS","step":"  -> after calc 5000x5000","size":"5000x5000 mm","mat":"Lesklý plagátový papier (0,14 mm / 130 g","price":"(hidden)","calc":false,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:41:02.700Z"}
+{"shot":"POS_sk_1440_seq2_5000x5000","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:41:03.107Z"}
+{"shot":"POS_sk_1440_custom_5000","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:41:03.202Z"}
+{"j":"POS","step":"custom 500x700 (fields os-width=500,os-height=700) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\"] okBtn=0","size":"500x700 mm","mat":"Lesklý plagátový papier (0,14 mm / 130 g","price":"(hidden)","calc":true,"msgs":[],"ts":"2026-11-03T10:41:07.956Z"}
+{"j":"POS","step":"  -> after calc 500x700","size":"500x700 mm","mat":"Lesklý plagátový papier (0,14 mm / 130 g","price":"638,22","calc":false,"msgs":[],"ts":"2026-11-03T10:41:10.702Z"}
+{"shot":"POS_sk_1440_seq3_500x700","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:41:11.172Z"}
+{"j":"POS","step":"custom 10x10 (fields os-width=10,os-height=10) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\",\"Minimálna veľkosť je 30 mm VÝŠKA [MM] Minimálna veľkosť je 30 mm OHYB Bez ohybu Sklad na polovicu Sklad do C (na tretiny, z\"] okBtn=0","size":"10x10 mm","mat":"Lesklý papier (0,086 mm / 115 g/m²)","price":"(hidden)","calc":true,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:41:14.301Z"}
+{"j":"POS","step":"  -> after calc 10x10","size":"10x10 mm","mat":"Lesklý papier (0,086 mm / 115 g/m²)","price":"(hidden)","calc":true,"msgs":["Materiál bol na základe zmeny rozmeru upravený. Prosíme o kontrolu."],"ts":"2026-11-03T10:41:29.646Z"}
+{"shot":"POS_sk_1440_seq4_10x10","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:41:30.037Z"}
+{"shot":"POS_sk_1440_custom_10","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:41:30.123Z"}
+{"j":"POS","step":"custom abcx-5 (fields os-width=,os-height=5) warn=[\"rozmer alebo ohyb Zadajte výšku, šírku a prípadne aj ohyb, ktorý chcete realizovať\",\"Minimálna veľkosť je 30 mm OHYB Bez ohybu Sklad na polovicu Sklad do C (na tretiny, zavinovací) Sklad do Z (na tretiny, har\"] okBtn=0","size":"x5 mm","mat":"Lesklý papier (0,086 mm / 115 g/m²)","price":"(hidden)","calc":true,"msgs":[],"ts":"2026-11-03T10:41:31.488Z"}
+{"j":"POS","step":"  -> after calc abcx-5","size":"x5 mm","mat":"Lesklý papier (0,086 mm / 115 g/m²)","price":"(hidden)","calc":true,"msgs":[],"ts":"2026-11-03T10:41:46.763Z"}
+{"shot":"POS_sk_1440_seq5_abcx_5","url":"https://www.expresta.sk/plagaty","ts":"2026-11-03T10:41:47.151Z"}

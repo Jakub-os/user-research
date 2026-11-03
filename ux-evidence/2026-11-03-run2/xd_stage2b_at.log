@@ -1,0 +1,35 @@
+at UPLOAD AREA after ok pdf ["Vorderseite Löschen","Vorderseite Löschen"]
+at after add modals ["Ihre Grafik auf diesem Material kann leicht zerkratzt werden! Wenn Sie eine dunkle Grafikfarbe haben, empfehlen wir dringend, eine Oberflächenbehandlung für das ausgewählte Material Mattes Papier (0,358 mm / 350 g/m²) zu wählen. Die Oberflächenbehandlung schützt die dunklen Farben vor Kratzern und erhöht allgemein die Haltbarkeit des Drucks. BEARBEITEN OHNE OBERFLÄCHENBEHANDLUNG"]
+at CART URL https://www.expresta.at/order/shopping-cart
+at CART THUMBS before edit ["https://www.expresta.at/image/resize/up_p/1793698435901_IVi7LLTDCdanEUpv7SpzR2k1shMj9lKJ_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/at/images/image-icons/zufriedenheitsgarantie-de-at.svg","https://cdn.expresta.com/at/images/image-icons/trusted-shops-at.svg"]
+at CART BTNS ["Anmelden |  | to-sign-in-btn","— |  | minus btn ","＋ |  | plus btn ","WEITERE PRODUKTE HINZUFÜGEN |  | ordbtnbc btn_back btn_light_large","WEITER |  | float-end btn-large btn-loader","Käuferschutz\n4,81\n(2,6k)\nHervorragend | minimized-trustbadge-98e3dadd90eb493088abdc5597a70810 | _hjr9qk"]
+at cart continue WEITER 
+at SPECIAL OFFER PAGE Zum Hauptinhalt springen | MENU | Anmelden | 1 | ALLE PRODUKTE | FÜR IHR BUSINESS | LEBENSEREIGNISSE | BUCHDRUCK | FÜR KREATIVE SEELEN | FÜR VERLAGE UND AUTOREN | WarenkorbSpezielles AngebotLieferung & ZahlungKontaktdatenKontrolle | Ihr Warenkorb hat noch Platz! Möchten Sie noch etwas Praktisches oder eine Kleinigkeit zur Freude auswählen? | OHNE ZUBEHÖR FORTFAHREN | Expresta Visitenkartenetui | MENGE | PREIS INKL. MWST. | 3,25 |  € |  ( | 3,25 |  € | /Stk | ) | IN DEN WARENKORB | Schwarzes Visitenkartenetui | MENGE | PREIS INKL. MWST. | 8,56 |  € |  ( | 8,56 |  € | /Stk | ) | IN DEN WARENKORB | Visitenkartenhalter | MENGE | PREIS INKL. MWST. | 5,87 |  € |  ( | 2,94 |  € | /Stk | ) | IN DEN WARENKORB | Braunes Visitenkartenetui | MENGE | PREIS INKL. MWST. | 8,55 |  € |  ( | 8,55 |  € | /Stk | ) | IN DEN WARENKORB | OHNE ZUBEHÖR FORTFAHREN | +43 670 301 9461 | rufen Sie uns an: Mo-Fr 8-16:30 | Direkt per Chat | wir sind am Chat: Mo-Fr 8-16:30 | info@expresta.at | schreiben Sie uns eine E-Mail | Käuferschutz | 4,81 | (2,6k) | Hervorragend
+at SO controls ["Zum Hauptinhalt springen -> esta.at/order/special-offer#main-content","Anmelden -> ps://www.expresta.at/account/enter-email","1 -> ps://www.expresta.at/order/shopping-cart","ALLE PRODUKTE -> //www.expresta.at/products/alle-produkte","FÜR IHR BUSINESS -> w.expresta.at/products/fuer-ihr-business","LEBENSEREIGNISSE -> ww.expresta.at/products/lebensereignisse","BUCHDRUCK -> tps://www.expresta.at/products/buchdruck","FÜR KREATIVE SEELEN -> xpresta.at/products/fuer-kreative-seelen","FÜR VERLAGE UND AUTOREN -> ta.at/publishing/verlagsdienstleistungen","OHNE ZUBEHÖR FORTFAHREN -> ","Expresta Visitenkartenetui -> egory/details/expresta-visitenkartenetui","IN DEN WARENKORB -> ","Schwarzes Visitenkartenetui -> ory/details/schwartzes-visitenkartenetui","IN DEN WARENKORB -> ","Visitenkartenhalter -> .at/category/details/visitenkartenhalter","IN DEN WARENKORB -> ","Braunes Visitenkartenetui -> tegory/details/braunes-visitenkartenetui","IN DEN WARENKORB -> ","OHNE ZUBEHÖR FORTFAHREN -> ","Käuferschutz\n4,81\n(2,6k)\nHervorragend -> "]
+at SO continue OHNE ZUBEHÖR FORTFAHREN
+at UX009 fresh {"url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0}
+at DELIVERY OPTIONS [
+ "delivery-type-63: Expresta Kurier – Wien und Bezirke BL, E, EU, GF, KO, MD, MI, ND, SW",
+ "delivery-type-6172: DPD Kurier Favorit",
+ "delivery-type-21412: DHL Express",
+ "delivery-type-9828: UPS",
+ "delivery-type-39332: FedEx Priority",
+ "delivery-type-57423: FedEx Economy",
+ "delivery-type-266: Geis - Übermaß- und Palettentransport"
+]
+at chosen delivery delivery-type-63
+at PAYMENT OPTIONS [
+ "payment-type-51: ",
+ "payment-type-89: ",
+ "payment-type-92: ",
+ "payment-type-33: Banküberweisung (Vorauszahlung - Druck erst nach Zahlung Ihrer Bestellung)",
+ "payment-type-31: Zahlung auf Rechnung in 14 Tagen (für bestehende Firmenkunden mit ausreichendem Limit für ",
+ "payment-type-32: "
+]
+at chosen payment payment-type-33
+at UX009 selected {"url":"/order/delivery-payment","del":"delivery-type-63","pay":"payment-type-33","payCount":1,"payTotal":6}
+at continue clicked WEITER
+at UX009 next step {"url":"/order/customer-data","del":null,"pay":null,"payCount":0,"payTotal":0}
+at UX009 browser back {"url":"/order/delivery-payment","del":"delivery-type-63","pay":null,"payCount":0,"payTotal":0}
+at UX009 reload {"url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0}
+at CART ITEMS LEFT 0

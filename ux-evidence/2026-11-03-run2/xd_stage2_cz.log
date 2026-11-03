@@ -1,0 +1,48 @@
+cz UPLOAD AREA after ok pdf ["Přední strana Smazat","Přední strana Smazat"]
+cz after add modals ["Vaše grafika se na tomto materiálu může snadno poškrábat! Pokud budete mít tmavou barvu grafiky, důrazně doporučujeme zvolit povrchovou úpravu (UV lak nebo laminaci) pro vami vybraný materiál: Matný papír (0,358 mm / 350 g/m²). Povrchová úprava ochrání tmavé barvy před poškrábáním a zvýší celkovou odolnost tiskoviny. UPRAVIT POKRAČOVAT BEZ POVRCHOVÉ ÚPRAVY"]
+cz CART URL https://www.expresta.cz/order/shopping-cart
+cz CART THUMBS before edit ["https://www.expresta.cz/image/resize/up_p/1793697532567_LUEDwFS09t8HSCRB0knvnDHRHJPv1GJC_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/cz/images/image-icons/garance-spokojenosti-cz.svg","https://cdn.expresta.com/common/images/badges/cz-golden.svg","https://cdn.expresta.com/cz/images/image-icons/safe-shopping-cz.svg"]
+cz EDIT URL https://www.expresta.cz/order/product/vizitky/upload?c=6ae9a6f08fe30166749785&ba=edit&refetch=1
+cz EDIT upload area start ["Přední strana Smazat","Přední strana Smazat"]
+cz toggle UPRAVIT PARAMETRY TISKU
+cz EDIT upload area after two-sided ["Přední strana PDF, AI, JPG, JPEG, GIF, PNG, EPS Nahrát soubor Zadní strana PDF, AI, JPG, JPEG, GIF, PNG, EPS Nahrát soubor","Přední strana PDF, AI, JPG, JPEG, GIF, PNG, EPS Nahrát soubor Zadní strana PDF, AI, JPG, JPEG, GIF, PNG, EPS Nahrát soubor"]
+cz save btn text ULOŽIT ZMĚNY
+cz after save modals ["Vaše grafika se na tomto materiálu může snadno poškrábat! Pokud budete mít tmavou barvu grafiky, důrazně doporučujeme zvolit povrchovou úpravu (UV lak nebo laminaci) pro vami vybraný materiál: Matný papír (0,358 mm / 350 g/m²) . Povrchová úprava ochrání tmavé barvy před poškrábáním a zvýší celkovou odolnost tiskoviny. UPRAVIT POKRAČOVAT BEZ POVRCHOVÉ ÚPRAVY"]
+cz URL after save https://www.expresta.cz/order/shopping-cart
+cz CART THUMBS after edit ["https://cdn.expresta.com/cz/images/banners/resized/business-cards-sm.jpg","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/cz/images/image-icons/garance-spokojenosti-cz.svg","https://cdn.expresta.com/common/images/badges/cz-golden.svg","https://cdn.expresta.com/cz/images/image-icons/safe-shopping-cz.svg"]
+cz CART ROW 
+cz cart continue POKRAČOVAT K OBJEDNÁVCE 
+cz SPECIAL OFFER PAGE Přeskočit na hlavní obsah | MENU | Přihlásit se | 1 | VŠECHNY PRODUKTY | PRO PODNIKÁNÍ | ŽIVOTNÍ UDÁLOSTI | TISK KNIH | PRO KREATIVNÍ DUŠE | PRO NAKLADATELSTVÍ A AUTORY | KošíkSpeciální nabídkaDoprava a platbaÚdajeKontrola | Ve vašem košíku zbývá volné místo! Vyberete si ještě něco užitečného, nebo drobnost pro potěšení? | POKRAČOVAT BEZ DOPLŇKŮ | Expresta vizitkář | POČET | CENA S DPH | 82 |  Kč |  ( | 82 |  Kč | /ks | ) | DO KOŠÍKU | Černý vizitkář | POČET | CENA S DPH | 216 |  Kč |  ( | 216 |  Kč | /ks | ) | DO KOŠÍKU | Stojan na vizitky | POČET | CENA S DPH | 148 |  Kč |  ( | 74 |  Kč | /ks | ) | DO KOŠÍKU | Hnědý vizitkář | POČET | CENA S DPH | 216 |  Kč |  ( | 216 |  Kč | /ks | ) | DO KOŠÍKU | POKRAČOVAT BEZ DOPLŇKŮ | 210 012 300 | volejte Po-Pá 7-19 | Přímo přes čet | četujte Po-Pá 7-19 | info@expresta.cz | napište nám na náš e-mail
+cz SO controls ["Přeskočit na hlavní obsah -> esta.cz/order/special-offer#main-content","Přihlásit se -> ps://www.expresta.cz/account/enter-email","1 -> ps://www.expresta.cz/order/shopping-cart","VŠECHNY PRODUKTY -> ww.expresta.cz/products/vsechny-produkty","PRO PODNIKÁNÍ -> //www.expresta.cz/products/pro-podnikani","ŽIVOTNÍ UDÁLOSTI -> ww.expresta.cz/products/zivotni-udalosti","TISK KNIH -> tps://www.expresta.cz/products/tisk-knih","PRO KREATIVNÍ DUŠE -> .expresta.cz/products/pro-kreativni-duse","PRO NAKLADATELSTVÍ A AUTORY -> presta.cz/publishing/vydavatelske-sluzby","POKRAČOVAT BEZ DOPLŇKŮ -> ","Expresta vizitkář -> ta.cz/category/details/vizitkar-expresta","DO KOŠÍKU -> ","Černý vizitkář -> resta.cz/category/details/cerny-vizitkar","DO KOŠÍKU -> ","Stojan na vizitky -> ta.cz/category/details/stojan-na-vizitky","DO KOŠÍKU -> ","Hnědý vizitkář -> resta.cz/category/details/hnedy-vizitkar","DO KOŠÍKU -> ","POKRAČOVAT BEZ DOPLŇKŮ -> "]
+cz SO continue POKRAČOVAT BEZ DOPLŇKŮ
+cz UX009 fresh {"url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0}
+cz DELIVERY OPTIONS [
+ "delivery-type-7948: Výdejní místo nebo box - zvolte výdejní místo Oblíbené",
+ "delivery-type-146: Kurýr (na firemní adresu)",
+ "delivery-type-34: Kurýr (na soukromou adresu)",
+ "delivery-type-24483: DHL Express",
+ "delivery-type-12012: UPS",
+ "delivery-type-42571: FedEx Priority",
+ "delivery-type-60425: FedEx Economy",
+ "delivery-type-1712: Geis - nadrozměrná a paletová přeprava"
+]
+cz chosen delivery delivery-type-146
+cz PAYMENT OPTIONS [
+ "payment-type-18: ",
+ "payment-type-13: ",
+ "payment-type-35: ",
+ "payment-type-12: ",
+ "payment-type-67: ",
+ "payment-type-36: ",
+ "payment-type-21: ",
+ "payment-type-26: Dobírka",
+ "payment-type-19: Na fakturu (pro stávající firemní zákazníky)",
+ "payment-type-74: Platba převodem předem"
+]
+cz chosen payment payment-type-18
+cz UX009 selected {"url":"/order/delivery-payment","del":"delivery-type-146","pay":"payment-type-18","payCount":1,"payTotal":10}
+cz continue clicked POKRAČOVAT
+cz UX009 next step {"url":"/order/customer-data","del":null,"pay":null,"payCount":0,"payTotal":0}
+cz UX009 browser back {"url":"/order/delivery-payment","del":"delivery-type-146","pay":null,"payCount":0,"payTotal":0}
+cz UX009 reload {"url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0}
+cz CART ITEMS LEFT 0

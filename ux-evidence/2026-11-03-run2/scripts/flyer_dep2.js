@@ -1,0 +1,32 @@
+const L=require('./lib');
+(async()=>{
+ const {b,ctx,p}=await L.launch('desktop',null,'sk');
+ await p.goto('https://www.expresta.sk/letaky',{waitUntil:'networkidle',timeout:60000});await L.sleep(2500);await L.killPopups(p);
+ const st=async l=>{const s=await p.evaluate(()=>{const vis=e=>e&&e.offsetParent!==null;const btn=[...document.querySelectorAll('.calc_param_item [data-bs-target]')].filter(vis).map(e=>e.innerText.replace(/\s+/g,' ').trim().slice(0,45));return {params:btn.slice(0,4),sides:document.querySelector('#sides-value').value,price:vis(document.querySelector('#prodPriceTotal'))?document.querySelector('#prodPriceTotal').innerText:'(hidden)',calc:!![...document.querySelectorAll('button.calculate_price')].find(vis),speed:[...document.querySelectorAll('input[name=production_speed]')].map(i=>(i.closest('label')||i.parentElement).innerText.replace(/\s+/g,' ').trim().slice(0,22)).join(' / '),toasts:[...document.querySelectorAll('.toast.show,.modal.show')].map(t=>t.innerText.replace(/\s+/g,' ').slice(0,250))}});console.log(l,JSON.stringify(s));L.note({j:'FLY-dep2',step:l,...s});return s;};
+ const calc=async()=>{const c=p.locator('button.calculate_price:visible').first();if(await c.count()){await c.click();await p.waitForFunction(()=>document.querySelector('#prodPriceTotal')?.offsetParent!==null,null,{timeout:20000}).catch(()=>{});await L.sleep(1500);}};
+ await p.evaluate(()=>document.querySelector('[data-bs-target="#paper-box"]').scrollIntoView({block:'start'}));
+ await st('default');
+ await p.locator('[data-bs-target="#paper-box"]').first().click();await L.sleep(1200);
+ await p.locator('#paper-box button.papers-filter-tag').filter({hasText:'Zušľachťovanie'}).click();await L.sleep(1500);
+ const list=await p.evaluate(()=>[...document.querySelectorAll('#paper-box h3, #paper-box .paper_name, #paper-box [class*=paper-item]')].filter(e=>e.offsetParent).map(e=>e.innerText.trim()).slice(0,20));console.log('compatible materials',list);
+ await L.shot(p,'FLY_sk_1440_filter_finishing');
+ const target=list.find(x=>/300/.test(x))||list[0];
+ await p.locator('#paper-box').getByText(target,{exact:true}).first().click();await L.sleep(2500);
+ await st('picked '+target);await calc();await st('calc');
+ await p.locator('[data-bs-target="#additional-params-box"]').first().click();await L.sleep(1200);
+ await p.locator('#additional-params-box').getByText('Parciálny UV lak',{exact:true}).first().click({timeout:8000}).catch(e=>console.log('UV click fail'));await L.sleep(2000);
+ console.log('finish drawer now',(await p.locator('#additional-params-box').innerText()).replace(/\s+/g,' ').slice(0,500));
+ console.log('English placeholders visible',await p.evaluate(()=>[...document.querySelectorAll('#additional-params-box *')].filter(e=>e.children.length===0&&e.offsetParent&&/Nothing selected/.test(e.innerText||'')).length));
+ await L.shot(p,'FLY_sk_1440_uv_selected');
+ await st('UV selected');await calc();const s2=await st('UV calc');
+ // back to incompatible 150g
+ await p.locator('[data-bs-target="#paper-box"]').first().click();await L.sleep(1200);
+ const reset=p.locator('#paper-box button.papers-filter-reset-btn');if(await reset.isVisible())await reset.click();await L.sleep(1000);
+ await p.locator('#paper-box').getByText('Lesklý papier (0,11 mm / 150 g/m²)',{exact:true}).first().click();await L.sleep(2500);
+ await st('back to 150g');
+ await L.shot(p,'FLY_sk_1440_back_150g');
+ await calc();await st('calc 150g');
+ await p.locator('[data-bs-target="#additional-params-box"]').first().click();await L.sleep(1200);
+ console.log('finish drawer after revert',(await p.locator('#additional-params-box').innerText()).replace(/\s+/g,' ').slice(0,300));
+ await b.close();
+})();

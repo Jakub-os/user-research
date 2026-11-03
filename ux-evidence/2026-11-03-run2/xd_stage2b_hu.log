@@ -1,0 +1,33 @@
+hu UPLOAD AREA after ok pdf ["Elülső oldal Törlés","Elülső oldal Törlés"]
+hu after add modals ["A grafikája könnyen karcolódhat ezen az anyagon! Ha sötét színű grafikával rendelkezik, erősen javasoljuk, hogy a kiválasztott anyaghoz Matt papír (0,358 mm / 350 g/m²) válasszon felületkezelést (UV-lakk vagy laminálás). A felületkezelés megvédi a sötét színeket a karcolódástól, és növeli a nyomtatás általános tartósságát. SZERKESZTÉS FOLYTATÁS FELÜLETKEZELÉS NÉLKÜL"]
+hu CART URL https://www.expresta.hu/order/shopping-cart
+hu CART THUMBS before edit ["https://www.expresta.hu/image/resize/up_p/1793699064512_cQfAl8TxXSPM7ZKXwSl9R5C2MklZQrtB_1.jpg?w=450&v=8","https://cdn.expresta.com/common/images/basket/box_for_business_cards.jpg","https://cdn.expresta.com/hu/images/image-icons/elegedettsegi-garancia-hu.svg"]
+hu CART BTNS ["Bejelentkezés |  | to-sign-in-btn","— |  | minus btn ","＋ |  | plus btn ","TOVÁBBI TERMÉKEK HOZZÁADÁSA |  | ordbtnbc btn_back btn_light_large","PÉNZTÁR |  | float-end btn-large btn-loader"]
+hu cart continue PÉNZTÁR 
+hu SPECIAL OFFER PAGE Tovább a fő tartalomra | MENU | Bejelentkezés | 1 | ÖSSZES TERMÉK | ÜZLETI CÉLRA | ÉLETESEMÉNYEK | KÖNYVNYOMTATÁS | KREATÍV LELKEKNEK | KIADÓK ÉS SZERZŐK SZÁMÁRA | KosárKülönleges ajánlatSzállítás és fizetésAdatokEllenőrzés | Van még hely a kosarában! Választ még valami hasznosat, vagy valami apróságot, ami örömöt okoz Önnek? | FOLYTATÁS KIEGÉSZÍTŐK NÉLKÜL | Expresta névjegykártya tartó | MENNYISÉG | ÁR ÁFA-VAL | 1 342 |  Ft |  ( | 1 342 |  Ft | /db | ) | KOSÁRBA | Fekete névjegykártya tartó | MENNYISÉG | ÁR ÁFA-VAL | 3 533 |  Ft |  ( | 3 533 |  Ft | /db | ) | KOSÁRBA | Névjegykártya állvány | MENNYISÉG | ÁR ÁFA-VAL | 2 421 |  Ft |  ( | 1 211 |  Ft | /db | ) | KOSÁRBA | Barna névjegykártya tartó | MENNYISÉG | ÁR ÁFA-VAL | 3 531 |  Ft |  ( | 3 531 |  Ft | /db | ) | KOSÁRBA | FOLYTATÁS KIEGÉSZÍTŐK NÉLKÜL | +36 1 901 0128 | hívjon Hé-Pé 8-16:30 | Közvetlenül chat-en keresztül | csevegjen Hé-Pé 8-16:30 | info@expresta.hu | írjon nekünk e-mailt |   | 66 vélemény alapján | 93.94% | a vásárlók közül ajánlaná ismerősének ezt a boltot. | Elégedettség a bolttal:	 | Szállítási idő:	 | A bolt áttekinthetősége:	 | Ügyfélszolgálat/kommunikáció:	 | A(z) expresta.hu elnyerte az Árukereső Megbízható Bolt minősítését a vásárlók valós visszajelzései alapján. | © 2004-2026 arukereso.hu Minden jog fenntartva.
+hu SO controls ["Tovább a fő tartalomra -> esta.hu/order/special-offer#main-content","Bejelentkezés -> ps://www.expresta.hu/account/enter-email","1 -> ps://www.expresta.hu/order/shopping-cart","ÖSSZES TERMÉK -> //www.expresta.hu/products/osszes-termek","ÜZLETI CÉLRA -> ://www.expresta.hu/products/uzleti-celra","ÉLETESEMÉNYEK -> //www.expresta.hu/products/eletesemenyek","KÖNYVNYOMTATÁS -> /www.expresta.hu/products/konyvnyomtatas","KREATÍV LELKEKNEK -> w.expresta.hu/products/kreativ-lelkeknek","KIADÓK ÉS SZERZŐK SZÁMÁRA -> esta.hu/publishing/kiadoi-szolgaltatasok","FOLYTATÁS KIEGÉSZÍTŐK NÉLKÜL -> ","Expresta névjegykártya tartó -> ory/details/expresta-nevjegykartya-tarto","KOSÁRBA -> ","Fekete névjegykártya tartó -> egory/details/fekete-nevjegykartya-tarto","KOSÁRBA -> ","Névjegykártya állvány -> u/category/details/nevjegykartya-allvany","KOSÁRBA -> ","Barna névjegykártya tartó -> tegory/details/barna-nevjegykartya-tarto","KOSÁRBA -> ","FOLYTATÁS KIEGÉSZÍTŐK NÉLKÜL -> ","66 vélemény alapján -> u/stores/expresta-hu-s224389/#velemenyek"]
+hu SO continue FOLYTATÁS KIEGÉSZÍTŐK NÉLKÜL
+hu UX009 fresh {"url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0}
+hu DELIVERY OPTIONS [
+ "delivery-type-1731: Futár Kedvenc",
+ "delivery-type-27554: DHL Express",
+ "delivery-type-45810: FedEx Priority",
+ "delivery-type-8535: Magyar Posta",
+ "delivery-type-63585: FedEx Economy",
+ "delivery-type-251: Geis - túlméretes és raklapos szállítás"
+]
+hu chosen delivery delivery-type-1731
+hu PAYMENT OPTIONS [
+ "payment-type-84: ",
+ "payment-type-81: Banki átutalás – (előre fizetés)",
+ "payment-type-77: Utánvéttel",
+ "payment-type-79: Számla (meglévő céges ügyfelek számára)",
+ "payment-type-80: "
+]
+hu chosen payment payment-type-81
+hu UX009 selected {"url":"/order/delivery-payment","del":"delivery-type-1731","pay":"payment-type-81","payCount":1,"payTotal":5}
+hu continue clicked FOLYTATÁS
+hu UX009 next step {"url":"/order/customer-data","del":null,"pay":null,"payCount":0,"payTotal":0}
+hu UX009 browser back {"url":"/order/delivery-payment","del":"delivery-type-1731","pay":null,"payCount":0,"payTotal":0}
+hu UX009 reload {"url":"/order/delivery-payment","del":null,"pay":null,"payCount":0,"payTotal":0}
+hu CART ITEMS LEFT 0
