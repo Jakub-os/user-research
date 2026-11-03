@@ -1,0 +1,22 @@
+const L=require('./lib');
+(async()=>{
+ const {b,ctx,p}=await L.launch('desktop',L.OUT+'scripts/state_cart.json');
+ const net=[];p.on('request',r=>{if(/expresta\.sk\/(order|api|basket)/.test(r.url())&&r.method()!=='GET')net.push(r.method()+' '+r.url().slice(0,110));});
+ await p.goto('https://www.expresta.sk/order/shopping-cart',{waitUntil:'networkidle',timeout:60000});
+ await L.sleep(2500);
+ const st=async(lbl)=>{const s=await p.evaluate(()=>{const row=document.querySelector('.item-quantity').closest('.row, tr, [class*=item]');
+   const q=document.querySelector('.item-quantity').value;
+   const rowPrices=[...document.querySelectorAll('[class*=price]')].filter(e=>e.offsetParent).map(e=>e.className.slice(0,40)+'='+e.innerText.replace(/\s+/g,' ').trim()).filter(t=>/€/.test(t)).slice(0,8);
+   return {q,rowPrices};});
+   console.log(lbl,JSON.stringify(s));L.note({j:'cart-price',step:lbl,...s});return s;};
+ await st('reloaded');
+ const qi=p.locator('.item-quantity').first();
+ await qi.click({clickCount:3});await p.keyboard.type('1000');await L.sleep(500);await st('typed 1000 no blur');
+ await p.keyboard.press('Tab');await L.sleep(1000);await st('1s after blur');await L.sleep(6000);await st('7s after blur');
+ await L.shot(p,'UX-042_sk_1440_cart_qty1000_after_blur');
+ console.log('NET',net);
+ await p.reload({waitUntil:'networkidle'});await L.sleep(2500);await st('after reload');
+ await L.shot(p,'UX-042_sk_1440_cart_qty1000_after_reload');
+ await ctx.storageState({path:L.OUT+'scripts/state_cart.json'});
+ await b.close();
+})();

@@ -1,0 +1,26 @@
+const L=require('./lib');
+(async()=>{
+ const v=process.argv[2];
+ const {b,p}=await L.launch('desktop');
+ const st=async(lbl)=>{const s=await p.evaluate(()=>{const pr=document.querySelector('#prodPriceTotal');
+   const vis=e=>e&&e.offsetParent!==null&&getComputedStyle(e).visibility!=='hidden';
+   const modals=[...document.querySelectorAll('.modal.show')].map(m=>m.innerText.replace(/\s+/g,' ').trim().slice(0,250));
+   const tips=[...document.querySelectorAll('.tooltip,.popover')].filter(vis).map(e=>e.innerText.trim());
+   const reset=vis(document.querySelector('.reset_price_container'));
+   return {amount:document.querySelector('#amount-value').value,price:pr?.innerText,priceVisible:vis(pr),calcVisible:vis(document.querySelector('button.calculate_price')),modals,tips,reset,unit:document.querySelector('.prodPriceTotal')?.parentElement?.innerText.replace(/\s+/g,' ')};});
+   console.log(lbl,JSON.stringify(s));L.note({j:'qty',val:v,step:lbl,...s});return s;};
+ await p.goto('https://www.expresta.sk/vizitky',{waitUntil:'networkidle',timeout:60000});
+ await L.sleep(2000);
+ await p.evaluate(()=>document.querySelector('#amount-value').scrollIntoView({block:'center'}));
+ const q=p.locator('#amount-value');
+ await q.click({clickCount:3}); await p.keyboard.press('Delete');
+ if(v) await p.keyboard.type(v);
+ await st('typed');
+ await p.keyboard.press('Tab'); await L.sleep(1200);
+ await st('blur');
+ const c=p.locator('button.calculate_price:visible').first();
+ let t0=Date.now();if(await c.count()){await c.click();await p.waitForFunction(()=>{const e=document.querySelector('#prodPriceTotal');return e&&e.offsetParent!==null},null,{timeout:30000}).catch(()=>console.log('TIMEOUT'));await L.sleep(800);}console.log('calcMs',Date.now()-t0);
+ await st('afterCalc');
+ await L.shot(p,'UX-002_sk_1440_vizitky_qty_'+(v||'empty')+'_after_calc');
+ await b.close();
+})();

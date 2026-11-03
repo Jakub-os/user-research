@@ -1,0 +1,23 @@
+const L=require('./lib');
+(async()=>{
+ const {b,ctx,p}=await L.launch('desktop',L.OUT+'scripts/state_cart.json');
+ const chk=async(l)=>{const r=await p.evaluate(()=>({url:location.pathname,del:document.querySelector('input[name=delivery_type]:checked')?.id||null,pay:document.querySelector('input[name=payment_type]:checked')?.id||null,payCount:document.querySelectorAll('input[name=payment_type]').length,btnDisabled:[...document.querySelectorAll('button,a')].find(x=>/^\s*POKRAČOVAŤ\s*$/i.test(x.innerText||''))?.className.includes('disabled')}));console.log(l,JSON.stringify(r));L.note({j:'checkout-back',step:l,...r});};
+ await p.goto('https://www.expresta.sk/order/delivery-payment',{waitUntil:'networkidle',timeout:60000});await L.sleep(2500);
+ await chk('fresh load');
+ await p.locator('label[for="delivery-type-38326"]').first().click();await L.sleep(3500);
+ await p.locator('label[for="payment-type-27"]').first().click().catch(async()=>{await p.getByText('Zobraziť všetky spôsoby platby').click();await L.sleep(800);await p.locator('label[for="payment-type-27"]').first().click();});await L.sleep(2000);
+ await chk('selected kurier + dobierka');
+ await p.locator('button:visible,a:visible').filter({hasText:/^\s*POKRAČOVAŤ\s*$/i}).first().click();
+ await p.waitForLoadState('networkidle');await L.sleep(2500);
+ await chk('on udaje');
+ await p.goBack({waitUntil:'networkidle'});await L.sleep(3000);await chk('browser back');
+ await L.shot(p,'UX-066_sk_1440_back_payment_lost',true);
+ await p.reload({waitUntil:'networkidle'});await L.sleep(3000);await chk('reload');
+ await p.locator('a').filter({hasText:/^\s*Košík\s*$/}).first().click().catch(async()=>p.goto('https://www.expresta.sk/order/shopping-cart'));
+ await p.waitForLoadState('networkidle');await L.sleep(2000);await chk('stepper Košík');
+ await p.locator('a:visible,button:visible').filter({hasText:/POKRAČOVAŤ K OBJEDNÁVKE/i}).first().click();await p.waitForLoadState('networkidle');await L.sleep(3000);
+ await chk('cart -> continue');
+ await L.shot(p,'UX-066_sk_1440_reenter_delivery_lost');
+ await ctx.storageState({path:L.OUT+'scripts/state_cart.json'});
+ await b.close();
+})();
