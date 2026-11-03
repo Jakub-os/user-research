@@ -10,6 +10,10 @@ Claude Code agent definitions for UX research on the Expresta websites
   cart/checkout, mobile, localization) and documents findings in the Expresta UX research
   FigJam board. Never places real orders.
 
+## Skills
+
+- `.claude/skills/usability-testing/` — usability-testing guidance (study design, fidelity choice, recruiting, common mistakes) with `references/guest-insights.md`. Preloaded into the agent; also usable directly in any session as `/usability-testing`.
+
 ## Usage
 
 Start a Claude Code session with this repository (`Jakub-os/user-research`) selected, then ask:
